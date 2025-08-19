@@ -1,4 +1,4 @@
-# 🎓 University Placement – Power BI Suite (ETL-ready data + Power BI build kit + Live Streamlit preview)
+#  University Placement – Power BI Suite (ETL-ready data + Power BI build kit + Live Streamlit preview)
 
 This repo gives you:
 1) **Processed analytic dataset** for placements (`data/processed/students_placements_fact.csv`)
@@ -7,7 +7,7 @@ This repo gives you:
 
 ---
 
-## 🧠 What’s in the dataset
+##  What’s in the dataset
 **File:** `data/processed/students_placements_fact.csv`  
 **Fields:**
 - `student_id`, `student_name`
@@ -22,7 +22,7 @@ This single fact table keeps Power BI modeling simple.
 
 ---
 
-## 📊 Power BI – Build the Dashboard (matches your screenshot)
+##  Power BI – Build the Dashboard (matches your screenshot)
 > Folder: `powerbi/` contains a theme file, DAX cheatsheet, and build steps.
 
 ### 1) Import data
@@ -67,7 +67,7 @@ Copy from `powerbi/DAX_Measures.md`:
 
 ---
 
-## ⚡ Live preview with Streamlit (optional, runs now)
+##  Live preview with Streamlit (optional, runs now)
 If you want an immediate interactive preview without opening Power BI, run:
 ```bash
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
@@ -98,8 +98,4 @@ university-placement-powerbi-suite/
 
 ---
 
-## 📸 Tip for GitHub
-Once you build the PBIX, export a PNG of the dashboard to `assets/` and reference it in your README:
-```markdown
-![Students Placement Dashboard](assets/screenshot.png)
-```
+
