@@ -1,0 +1,15 @@
+{
+  "name": "Placement Light",
+  "foreground": "#1F2937",
+  "background": "#FFFFFF",
+  "dataColors": ["#2563EB","#E11D48","#10B981","#F59E0B","#8B5CF6","#14B8A6"],
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [ { "fontSize": 12, "fontFamily": "Segoe UI Semibold" } ]
+      }
+    },
+    "slicer": { "*": { "general": [ { "outlineColor": "#E5E7EB" } ] } },
+    "card":   { "*": { "labels": [ { "color": "#111827" } ] } }
+  }
+}

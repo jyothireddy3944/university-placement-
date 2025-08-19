@@ -1,0 +1,1561 @@
+student_id,student_name,year,batch,branch,cgpa,placement_status,is_placed,company,placed_type,ppc_verification,package_lpa
+1,Student 0001,2022,2022-7642,CE,7.48,In Process,0,,,Not Joined,0.0
+2,Student 0002,2022,2022-7850,EE,9.26,Selected,1,Accenture,T&P Placed,Not Verified,8.0
+3,Student 0003,2022,2022-7890,ME,6.76,Shortlisted,0,,,Pending,0.0
+4,Student 0004,2022,2022-7857,CSE,9.11,Selected,1,Accenture,T&P Placed,Not Verified,9.0
+5,Student 0005,2022,2022-7751,CSE,7.76,Rejected,0,,,Not Joined,0.0
+6,Student 0006,2022,2022-7819,CE,6.86,Rejected,0,,,Pending,0.0
+7,Student 0007,2022,2022-7730,ECE,7.11,In Process,0,,,Not Verified,0.0
+8,Student 0008,2022,2022-7872,ME,5.62,Rejected,0,,,Not Verified,0.0
+9,Student 0009,2022,2022-7635,CE,8.07,Rejected,0,,,Not Verified,0.0
+10,Student 0010,2022,2022-7815,CSE,7.28,Rejected,0,,,Pending,0.0
+11,Student 0011,2022,2022-7749,EE,8.77,Rejected,0,,,Verified,0.0
+12,Student 0012,2022,2022-7769,CE,8.26,In Process,0,,,Not Verified,0.0
+13,Student 0013,2022,2022-7834,EE,8.9,Rejected,0,,,Pending,0.0
+14,Student 0014,2022,2022-7687,ECE,7.86,Selected,1,Microsoft,Self Placed,Verified,7.0
+15,Student 0015,2022,2022-7847,CE,7.25,Selected,1,Microsoft,BP Placed,Verified,12.5
+16,Student 0016,2022,2022-7830,ECE,8.0,Rejected,0,,,Pending,0.0
+17,Student 0017,2022,2022-7761,ME,8.95,Shortlisted,0,,,Pending,0.0
+18,Student 0018,2022,2022-7695,CSE,8.18,Rejected,0,,,Not Verified,0.0
+19,Student 0019,2022,2022-7648,CSE,8.07,Rejected,0,,,Not Verified,0.0
+20,Student 0020,2022,2022-7866,ECE,6.32,Rejected,0,,,Not Verified,0.0
+21,Student 0021,2022,2022-7607,CE,8.02,Selected,1,TCS,BP Placed,Verified,18.0
+22,Student 0022,2022,2022-7776,ECE,9.16,Selected,1,Google,Off Campus Placed,Verified,6.2
+23,Student 0023,2022,2022-7778,ME,7.84,Selected,1,Capgemini,T&P Placed,Verified,18.0
+24,Student 0024,2022,2022-7624,CSE,8.21,Shortlisted,0,,,Not Verified,0.0
+25,Student 0025,2022,2022-7678,ME,6.79,Selected,1,Wipro,T&P Placed,Verified,15.2
+26,Student 0026,2022,2022-7608,CE,8.48,Selected,1,Amazon,BP Placed,Verified,7.0
+27,Student 0027,2022,2022-7618,CE,6.5,Rejected,0,,,Pending,0.0
+28,Student 0028,2022,2022-7688,CSE,7.17,In Process,0,,,Not Joined,0.0
+29,Student 0029,2022,2022-7760,ME,8.47,Selected,1,Google,BP Placed,Pending,18.0
+30,Student 0030,2022,2022-7739,ME,6.34,Selected,1,TCS,T&P Placed,Verified,8.2
+31,Student 0031,2022,2022-7827,CE,8.68,Shortlisted,0,,,Not Verified,0.0
+32,Student 0032,2022,2022-7703,ECE,6.97,Selected,1,TCS,Off Campus Placed,Pending,7.5
+33,Student 0033,2022,2022-7811,CSE,8.07,Selected,1,Microsoft,Off Campus Placed,Verified,9.5
+34,Student 0034,2022,2022-7760,ME,7.05,Rejected,0,,,Not Verified,0.0
+35,Student 0035,2022,2022-7797,EE,6.36,Interview,0,,,Pending,0.0
+36,Student 0036,2022,2022-7747,ME,6.46,Rejected,0,,,Not Verified,0.0
+37,Student 0037,2022,2022-7897,EE,7.14,Shortlisted,0,,,Not Verified,0.0
+38,Student 0038,2022,2022-7735,ME,7.18,In Process,0,,,Not Verified,0.0
+39,Student 0039,2022,2022-7620,EE,6.86,Interview,0,,,Not Joined,0.0
+40,Student 0040,2022,2022-7758,CE,6.84,Rejected,0,,,Pending,0.0
+41,Student 0041,2022,2022-7718,EE,7.61,Shortlisted,0,,,Verified,0.0
+42,Student 0042,2022,2022-7687,CE,7.79,Interview,0,,,Not Verified,0.0
+43,Student 0043,2022,2022-7766,CE,8.19,Selected,1,TCS,Self Placed,Verified,9.0
+44,Student 0044,2022,2022-7840,EE,8.47,Selected,1,NVIDIA,Self Placed,Verified,9.0
+45,Student 0045,2022,2022-7643,CE,8.48,Rejected,0,,,Verified,0.0
+46,Student 0046,2022,2022-7621,EE,7.48,Selected,1,Microsoft,BP Placed,Verified,9.0
+47,Student 0047,2022,2022-7638,ME,8.63,Selected,1,Accenture,T&P Placed,Pending,20.5
+48,Student 0048,2022,2022-7858,CSE,8.98,Interview,0,,,Pending,0.0
+49,Student 0049,2022,2022-7807,EE,9.46,Selected,1,NVIDIA,Self Placed,Verified,20.0
+50,Student 0050,2022,2022-7684,ECE,5.92,Interview,0,,,Not Verified,0.0
+51,Student 0051,2022,2022-7630,CSE,7.79,Selected,1,Accenture,T&P Placed,Verified,6.0
+52,Student 0052,2022,2022-7688,EE,7.63,Shortlisted,0,,,Verified,0.0
+53,Student 0053,2022,2022-7603,ME,9.31,In Process,0,,,Not Verified,0.0
+54,Student 0054,2022,2022-7845,CSE,7.7,Rejected,0,,,Not Verified,0.0
+55,Student 0055,2022,2022-7655,CE,7.95,Selected,1,Amazon,Self Placed,Not Verified,7.0
+56,Student 0056,2022,2022-7882,CE,7.76,Shortlisted,0,,,Pending,0.0
+57,Student 0057,2022,2022-7873,ME,7.31,Selected,1,Capgemini,BP Placed,Not Joined,24.0
+58,Student 0058,2022,2022-7632,EE,6.82,Selected,1,Deloitte,Self Placed,Verified,18.0
+59,Student 0059,2022,2022-7719,CE,7.07,Selected,1,Amazon,BP Placed,Not Verified,9.2
+60,Student 0060,2022,2022-7715,ME,8.55,Interview,0,,,Verified,0.0
+61,Student 0061,2022,2022-7880,CSE,7.02,Selected,1,Google,Off Campus Placed,Pending,9.5
+62,Student 0062,2022,2022-7749,CSE,6.56,Rejected,0,,,Pending,0.0
+63,Student 0063,2022,2022-7895,ME,6.97,Selected,1,Databricks,BP Placed,Pending,8.0
+64,Student 0064,2022,2022-7701,EE,8.96,Rejected,0,,,Not Verified,0.0
+65,Student 0065,2022,2022-7860,ME,7.65,Selected,1,Infosys,BP Placed,Verified,8.0
+66,Student 0066,2022,2022-7739,ME,8.0,Rejected,0,,,Not Verified,0.0
+67,Student 0067,2022,2022-7803,CSE,8.04,Selected,1,Wipro,Off Campus Placed,Verified,28.0
+68,Student 0068,2022,2022-7650,ECE,7.88,Selected,1,Google,Off Campus Placed,Verified,8.0
+69,Student 0069,2022,2022-7838,CSE,6.72,Shortlisted,0,,,Not Joined,0.0
+70,Student 0070,2022,2022-7715,ECE,6.42,Selected,1,Amazon,T&P Placed,Verified,6.2
+71,Student 0071,2022,2022-7774,ME,10.0,Rejected,0,,,Not Joined,0.0
+72,Student 0072,2022,2022-7689,ME,8.5,Selected,1,Capgemini,Self Placed,Not Verified,6.0
+73,Student 0073,2022,2022-7840,CSE,8.22,Rejected,0,,,Not Verified,0.0
+74,Student 0074,2022,2022-7630,EE,8.55,Shortlisted,0,,,Verified,0.0
+75,Student 0075,2022,2022-7850,ECE,7.47,Selected,1,Amazon,BP Placed,Not Verified,18.0
+76,Student 0076,2022,2022-7721,ME,7.17,Rejected,0,,,Pending,0.0
+77,Student 0077,2022,2022-7615,ME,7.79,Selected,1,Capgemini,T&P Placed,Verified,15.0
+78,Student 0078,2022,2022-7777,ECE,6.55,Selected,1,TCS,Self Placed,Pending,24.0
+79,Student 0079,2022,2022-7792,CSE,8.33,In Process,0,,,Not Verified,0.0
+80,Student 0080,2022,2022-7628,ME,7.43,Selected,1,Google,Self Placed,Not Joined,7.0
+81,Student 0081,2022,2022-7842,CE,9.2,Selected,1,Accenture,Self Placed,Verified,20.0
+82,Student 0082,2022,2022-7737,ME,7.49,Selected,1,Deloitte,BP Placed,Pending,15.0
+83,Student 0083,2022,2022-7621,ECE,7.9,Rejected,0,,,Not Joined,0.0
+84,Student 0084,2022,2022-7777,ME,7.56,Interview,0,,,Verified,0.0
+85,Student 0085,2022,2022-7800,EE,6.97,Selected,1,NVIDIA,Off Campus Placed,Verified,28.2
+86,Student 0086,2022,2022-7610,CSE,8.71,Rejected,0,,,Pending,0.0
+87,Student 0087,2022,2022-7712,ECE,8.69,Rejected,0,,,Pending,0.0
+88,Student 0088,2022,2022-7823,ECE,8.76,In Process,0,,,Verified,0.0
+89,Student 0089,2022,2022-7626,EE,8.45,Rejected,0,,,Not Verified,0.0
+90,Student 0090,2022,2022-7859,ECE,7.2,Rejected,0,,,Pending,0.0
+91,Student 0091,2022,2022-7636,ECE,5.97,Selected,1,Microsoft,BP Placed,Pending,8.0
+92,Student 0092,2022,2022-7753,ME,6.51,Selected,1,Google,T&P Placed,Not Verified,7.2
+93,Student 0093,2022,2022-7823,CE,7.68,Selected,1,Accenture,BP Placed,Verified,20.2
+94,Student 0094,2022,2022-7695,EE,9.17,In Process,0,,,Not Joined,0.0
+95,Student 0095,2022,2022-7749,CE,7.98,Rejected,0,,,Not Verified,0.0
+96,Student 0096,2022,2022-7608,CE,6.62,Selected,1,NVIDIA,T&P Placed,Pending,29.0
+97,Student 0097,2022,2022-7811,CSE,8.24,Selected,1,Siemens,T&P Placed,Verified,20.0
+98,Student 0098,2022,2022-7768,ME,7.62,Rejected,0,,,Not Verified,0.0
+99,Student 0099,2022,2022-7685,EE,8.87,Selected,1,NVIDIA,Self Placed,Verified,12.5
+100,Student 0100,2022,2022-7848,CSE,7.13,In Process,0,,,Not Verified,0.0
+101,Student 0101,2022,2022-7685,ME,6.1,Selected,1,Infosys,Self Placed,Pending,6.2
+102,Student 0102,2022,2022-7887,ECE,7.94,Selected,1,NVIDIA,Off Campus Placed,Pending,7.0
+103,Student 0103,2022,2022-7611,CSE,8.31,Selected,1,Wipro,BP Placed,Not Verified,9.5
+104,Student 0104,2022,2022-7721,ME,8.34,Selected,1,Deloitte,T&P Placed,Verified,24.0
+105,Student 0105,2022,2022-7758,ECE,5.93,Selected,1,Infosys,BP Placed,Pending,12.5
+106,Student 0106,2022,2022-7825,CE,6.02,Interview,0,,,Not Verified,0.0
+107,Student 0107,2022,2022-7768,CSE,7.61,Selected,1,NVIDIA,Off Campus Placed,Not Verified,20.0
+108,Student 0108,2022,2022-7868,CSE,8.42,Rejected,0,,,Pending,0.0
+109,Student 0109,2022,2022-7696,ECE,8.36,In Process,0,,,Pending,0.0
+110,Student 0110,2022,2022-7659,CE,8.47,Selected,1,Amazon,T&P Placed,Not Joined,21.0
+111,Student 0111,2022,2022-7871,ME,9.31,Rejected,0,,,Not Verified,0.0
+112,Student 0112,2022,2022-7736,ECE,7.43,Interview,0,,,Not Verified,0.0
+113,Student 0113,2022,2022-7630,CE,8.27,Interview,0,,,Pending,0.0
+114,Student 0114,2022,2022-7600,ECE,7.28,Rejected,0,,,Verified,0.0
+115,Student 0115,2022,2022-7652,CSE,6.02,Rejected,0,,,Not Verified,0.0
+116,Student 0116,2022,2022-7835,ECE,8.12,Selected,1,Siemens,Self Placed,Verified,12.0
+117,Student 0117,2022,2022-7744,ECE,6.7,Rejected,0,,,Not Joined,0.0
+118,Student 0118,2022,2022-7840,ME,8.01,Shortlisted,0,,,Not Verified,0.0
+119,Student 0119,2022,2022-7794,ME,8.99,Selected,1,Google,BP Placed,Verified,8.2
+120,Student 0120,2022,2022-7802,CSE,8.59,Interview,0,,,Not Verified,0.0
+121,Student 0121,2022,2022-7759,ECE,8.38,Rejected,0,,,Not Verified,0.0
+122,Student 0122,2022,2022-7763,ME,7.62,Rejected,0,,,Not Verified,0.0
+123,Student 0123,2022,2022-7770,ECE,7.51,Interview,0,,,Not Verified,0.0
+124,Student 0124,2022,2022-7752,CE,9.2,Interview,0,,,Not Joined,0.0
+125,Student 0125,2022,2022-7668,CE,6.29,Shortlisted,0,,,Not Verified,0.0
+126,Student 0126,2022,2022-7719,CE,7.57,Selected,1,Amazon,T&P Placed,Pending,9.0
+127,Student 0127,2022,2022-7630,ME,6.27,In Process,0,,,Pending,0.0
+128,Student 0128,2022,2022-7875,EE,7.42,Selected,1,Microsoft,BP Placed,Verified,9.0
+129,Student 0129,2022,2022-7776,CSE,6.9,Selected,1,TCS,Off Campus Placed,Verified,28.5
+130,Student 0130,2022,2022-7712,CE,7.25,Selected,1,Accenture,BP Placed,Pending,7.0
+131,Student 0131,2022,2022-7689,CSE,7.71,In Process,0,,,Not Verified,0.0
+132,Student 0132,2022,2022-7626,CSE,8.77,Selected,1,Amazon,T&P Placed,Verified,10.0
+133,Student 0133,2022,2022-7860,CE,7.87,Selected,1,Siemens,BP Placed,Pending,12.5
+134,Student 0134,2022,2022-7737,ME,7.85,Shortlisted,0,,,Not Joined,0.0
+135,Student 0135,2022,2022-7885,EE,8.03,Selected,1,Deloitte,T&P Placed,Verified,7.0
+136,Student 0136,2022,2022-7688,ECE,7.32,In Process,0,,,Not Joined,0.0
+137,Student 0137,2022,2022-7869,ME,8.97,Selected,1,Google,Self Placed,Verified,11.0
+138,Student 0138,2022,2022-7828,EE,7.37,Selected,1,Wipro,BP Placed,Verified,6.5
+139,Student 0139,2022,2022-7819,CSE,7.47,Rejected,0,,,Not Joined,0.0
+140,Student 0140,2022,2022-7859,CSE,7.29,Rejected,0,,,Pending,0.0
+141,Student 0141,2022,2022-7816,CE,8.66,Selected,1,NVIDIA,Self Placed,Verified,18.0
+142,Student 0142,2022,2022-7798,ME,7.34,Rejected,0,,,Not Verified,0.0
+143,Student 0143,2022,2022-7648,ECE,5.76,Rejected,0,,,Pending,0.0
+144,Student 0144,2022,2022-7897,EE,6.89,Rejected,0,,,Not Joined,0.0
+145,Student 0145,2022,2022-7713,CSE,6.41,Selected,1,Wipro,Self Placed,Pending,18.2
+146,Student 0146,2022,2022-7876,EE,9.23,Selected,1,Microsoft,Self Placed,Verified,24.5
+147,Student 0147,2022,2022-7736,CE,6.3,Shortlisted,0,,,Pending,0.0
+148,Student 0148,2022,2022-7624,ECE,5.69,Selected,1,Databricks,Self Placed,Verified,10.2
+149,Student 0149,2022,2022-7663,ECE,8.0,Selected,1,Databricks,BP Placed,Not Joined,28.2
+150,Student 0150,2022,2022-7669,EE,8.82,Selected,1,TCS,BP Placed,Verified,6.0
+151,Student 0151,2022,2022-7788,ME,6.13,Shortlisted,0,,,Pending,0.0
+152,Student 0152,2022,2022-7736,CE,9.22,Rejected,0,,,Not Verified,0.0
+153,Student 0153,2022,2022-7824,EE,7.88,Rejected,0,,,Not Verified,0.0
+154,Student 0154,2022,2022-7799,EE,8.16,Selected,1,NVIDIA,Self Placed,Verified,6.0
+155,Student 0155,2022,2022-7810,ECE,8.32,Rejected,0,,,Not Joined,0.0
+156,Student 0156,2022,2022-7728,EE,9.62,Selected,1,Accenture,Self Placed,Pending,18.0
+157,Student 0157,2022,2022-7863,CSE,8.37,In Process,0,,,Not Verified,0.0
+158,Student 0158,2022,2022-7881,EE,6.5,In Process,0,,,Not Verified,0.0
+159,Student 0159,2022,2022-7789,ME,6.3,Selected,1,Amazon,BP Placed,Verified,12.0
+160,Student 0160,2022,2022-7881,EE,7.33,Rejected,0,,,Pending,0.0
+161,Student 0161,2022,2022-7891,ECE,8.11,Rejected,0,,,Pending,0.0
+162,Student 0162,2022,2022-7619,ECE,8.93,Rejected,0,,,Pending,0.0
+163,Student 0163,2022,2022-7709,ME,9.06,In Process,0,,,Not Verified,0.0
+164,Student 0164,2022,2022-7835,EE,8.81,Selected,1,Capgemini,Off Campus Placed,Verified,9.2
+165,Student 0165,2022,2022-7732,CE,5.42,Selected,1,Accenture,BP Placed,Verified,7.2
+166,Student 0166,2022,2022-7734,ME,7.52,In Process,0,,,Not Verified,0.0
+167,Student 0167,2022,2022-7635,ECE,9.18,In Process,0,,,Not Verified,0.0
+168,Student 0168,2022,2022-7755,CE,8.44,Selected,1,Microsoft,Off Campus Placed,Not Verified,8.0
+169,Student 0169,2022,2022-7669,EE,7.96,Selected,1,Siemens,T&P Placed,Verified,10.0
+170,Student 0170,2022,2022-7623,ME,7.71,Selected,1,Infosys,T&P Placed,Pending,6.0
+171,Student 0171,2022,2022-7864,ECE,8.44,Selected,1,Accenture,Off Campus Placed,Not Joined,28.5
+172,Student 0172,2022,2022-7746,CSE,10.0,Selected,1,Deloitte,BP Placed,Verified,9.0
+173,Student 0173,2022,2022-7664,ECE,8.94,Selected,1,NVIDIA,T&P Placed,Not Verified,6.5
+174,Student 0174,2022,2022-7849,ECE,7.89,Selected,1,Infosys,Off Campus Placed,Verified,28.0
+175,Student 0175,2022,2022-7857,CSE,6.96,Shortlisted,0,,,Not Verified,0.0
+176,Student 0176,2022,2022-7797,CE,8.1,Selected,1,Capgemini,Off Campus Placed,Pending,8.0
+177,Student 0177,2022,2022-7744,EE,9.16,Rejected,0,,,Not Verified,0.0
+178,Student 0178,2022,2022-7705,CSE,7.38,Rejected,0,,,Not Verified,0.0
+179,Student 0179,2022,2022-7713,CE,7.9,Rejected,0,,,Pending,0.0
+180,Student 0180,2022,2022-7819,CE,9.0,Interview,0,,,Not Verified,0.0
+181,Student 0181,2022,2022-7880,EE,7.06,Selected,1,Databricks,Self Placed,Verified,18.0
+182,Student 0182,2022,2022-7647,ME,7.29,Selected,1,Deloitte,Self Placed,Verified,28.0
+183,Student 0183,2022,2022-7802,CSE,7.74,Selected,1,Deloitte,T&P Placed,Not Joined,18.5
+184,Student 0184,2022,2022-7637,ME,9.05,Selected,1,Databricks,BP Placed,Not Verified,8.0
+185,Student 0185,2022,2022-7776,EE,8.26,Selected,1,NVIDIA,Off Campus Placed,Pending,24.0
+186,Student 0186,2022,2022-7891,ECE,7.23,In Process,0,,,Not Verified,0.0
+187,Student 0187,2022,2022-7890,ME,5.45,Selected,1,Databricks,Self Placed,Verified,8.0
+188,Student 0188,2022,2022-7729,ECE,8.48,Interview,0,,,Not Joined,0.0
+189,Student 0189,2022,2022-7890,EE,8.36,Selected,1,Accenture,Self Placed,Verified,8.0
+190,Student 0190,2022,2022-7713,CSE,7.86,Rejected,0,,,Verified,0.0
+191,Student 0191,2022,2022-7770,CE,7.59,Rejected,0,,,Verified,0.0
+192,Student 0192,2022,2022-7681,CSE,9.01,Interview,0,,,Verified,0.0
+193,Student 0193,2022,2022-7734,CSE,8.35,Interview,0,,,Not Verified,0.0
+194,Student 0194,2022,2022-7852,CE,8.83,In Process,0,,,Not Joined,0.0
+195,Student 0195,2022,2022-7679,EE,7.39,Selected,1,Infosys,T&P Placed,Verified,8.0
+196,Student 0196,2022,2022-7702,CE,7.94,Selected,1,Amazon,Off Campus Placed,Verified,12.0
+197,Student 0197,2022,2022-7823,ME,7.54,Shortlisted,0,,,Not Verified,0.0
+198,Student 0198,2022,2022-7803,CE,8.27,Selected,1,Databricks,Off Campus Placed,Verified,7.0
+199,Student 0199,2022,2022-7670,CSE,7.28,In Process,0,,,Not Verified,0.0
+200,Student 0200,2022,2022-7668,ECE,8.58,Interview,0,,,Not Joined,0.0
+201,Student 0201,2022,2022-7658,ME,8.13,Shortlisted,0,,,Not Verified,0.0
+202,Student 0202,2022,2022-7691,EE,7.28,Selected,1,TCS,Off Campus Placed,Verified,6.0
+203,Student 0203,2022,2022-7864,CE,8.3,In Process,0,,,Pending,0.0
+204,Student 0204,2022,2022-7682,EE,6.79,In Process,0,,,Not Joined,0.0
+205,Student 0205,2022,2022-7797,ECE,6.31,Selected,1,TCS,BP Placed,Pending,6.0
+206,Student 0206,2022,2022-7808,CE,7.86,Rejected,0,,,Not Verified,0.0
+207,Student 0207,2022,2022-7691,ECE,6.18,Rejected,0,,,Not Verified,0.0
+208,Student 0208,2022,2022-7889,CSE,8.03,Selected,1,Infosys,Self Placed,Verified,6.0
+209,Student 0209,2022,2022-7769,CE,7.25,Rejected,0,,,Not Verified,0.0
+210,Student 0210,2022,2022-7610,CSE,7.62,Rejected,0,,,Not Joined,0.0
+211,Student 0211,2022,2022-7875,ECE,7.94,In Process,0,,,Not Verified,0.0
+212,Student 0212,2022,2022-7661,ECE,6.54,Rejected,0,,,Not Verified,0.0
+213,Student 0213,2022,2022-7701,CE,7.49,Selected,1,Amazon,Off Campus Placed,Pending,28.5
+214,Student 0214,2022,2022-7755,CSE,6.45,Selected,1,TCS,BP Placed,Verified,20.5
+215,Student 0215,2022,2022-7874,ME,8.16,Rejected,0,,,Not Verified,0.0
+216,Student 0216,2022,2022-7727,CSE,6.63,Selected,1,NVIDIA,Self Placed,Not Joined,6.5
+217,Student 0217,2022,2022-7664,EE,9.76,Interview,0,,,Not Verified,0.0
+218,Student 0218,2022,2022-7606,ME,6.68,Rejected,0,,,Pending,0.0
+219,Student 0219,2022,2022-7768,ME,6.73,Rejected,0,,,Not Verified,0.0
+220,Student 0220,2022,2022-7734,ECE,10.0,Interview,0,,,Pending,0.0
+221,Student 0221,2022,2022-7622,CSE,7.21,Rejected,0,,,Not Verified,0.0
+222,Student 0222,2022,2022-7769,ME,8.66,Interview,0,,,Not Verified,0.0
+223,Student 0223,2022,2022-7865,EE,8.76,Shortlisted,0,,,Not Joined,0.0
+224,Student 0224,2022,2022-7646,CSE,9.08,Selected,1,Siemens,Self Placed,Verified,7.0
+225,Student 0225,2022,2022-7703,ECE,8.14,Selected,1,Capgemini,BP Placed,Verified,15.5
+226,Student 0226,2022,2022-7759,CSE,7.66,Rejected,0,,,Not Verified,0.0
+227,Student 0227,2022,2022-7613,CE,6.88,Interview,0,,,Not Verified,0.0
+228,Student 0228,2022,2022-7707,CSE,8.4,In Process,0,,,Not Verified,0.0
+229,Student 0229,2022,2022-7881,CSE,7.55,Rejected,0,,,Pending,0.0
+230,Student 0230,2022,2022-7806,CSE,7.7,Selected,1,Google,T&P Placed,Verified,8.2
+231,Student 0231,2022,2022-7603,CE,5.31,In Process,0,,,Not Verified,0.0
+232,Student 0232,2022,2022-7858,CE,7.03,Rejected,0,,,Pending,0.0
+233,Student 0233,2022,2022-7844,ME,7.07,Interview,0,,,Not Joined,0.0
+234,Student 0234,2022,2022-7609,CE,7.47,Interview,0,,,Not Verified,0.0
+235,Student 0235,2022,2022-7838,CSE,9.67,Selected,1,NVIDIA,Self Placed,Verified,6.5
+236,Student 0236,2022,2022-7869,EE,7.71,Selected,1,NVIDIA,BP Placed,Verified,28.0
+237,Student 0237,2022,2022-7633,ME,7.24,Rejected,0,,,Pending,0.0
+238,Student 0238,2022,2022-7875,CE,7.12,Selected,1,TCS,Self Placed,Verified,9.0
+239,Student 0239,2022,2022-7845,ECE,6.83,Selected,1,Siemens,Self Placed,Verified,9.0
+240,Student 0240,2022,2022-7815,CSE,7.96,Rejected,0,,,Pending,0.0
+241,Student 0241,2022,2022-7853,ECE,7.2,In Process,0,,,Not Verified,0.0
+242,Student 0242,2022,2022-7729,ECE,5.74,Interview,0,,,Verified,0.0
+243,Student 0243,2022,2022-7730,ME,7.1,Interview,0,,,Not Verified,0.0
+244,Student 0244,2022,2022-7743,EE,7.53,Rejected,0,,,Not Joined,0.0
+245,Student 0245,2022,2022-7676,EE,7.65,Rejected,0,,,Not Verified,0.0
+246,Student 0246,2022,2022-7837,ME,8.41,Rejected,0,,,Not Verified,0.0
+247,Student 0247,2022,2022-7825,ECE,8.27,Shortlisted,0,,,Not Verified,0.0
+248,Student 0248,2022,2022-7632,EE,8.58,Rejected,0,,,Not Verified,0.0
+249,Student 0249,2022,2022-7893,EE,6.28,Selected,1,Accenture,Off Campus Placed,Pending,9.2
+250,Student 0250,2022,2022-7686,CE,6.73,Selected,1,Amazon,Self Placed,Verified,9.5
+251,Student 0251,2022,2022-7812,CE,8.08,Selected,1,Infosys,T&P Placed,Not Verified,10.5
+252,Student 0252,2022,2022-7642,ECE,9.71,Selected,1,Databricks,BP Placed,Not Joined,7.0
+253,Student 0253,2022,2022-7651,CE,7.9,Rejected,0,,,Not Verified,0.0
+254,Student 0254,2022,2022-7792,EE,7.26,Rejected,0,,,Verified,0.0
+255,Student 0255,2022,2022-7872,ECE,8.17,Selected,1,Amazon,Self Placed,Not Verified,15.0
+256,Student 0256,2022,2022-7891,CE,7.89,Selected,1,NVIDIA,T&P Placed,Verified,10.0
+257,Student 0257,2022,2022-7710,CSE,7.98,In Process,0,,,Not Verified,0.0
+258,Student 0258,2022,2022-7870,ME,8.6,Rejected,0,,,Pending,0.0
+259,Student 0259,2022,2022-7853,CSE,7.96,Interview,0,,,Verified,0.0
+260,Student 0260,2022,2022-7850,ECE,9.3,Selected,1,Capgemini,BP Placed,Not Verified,18.0
+261,Student 0261,2022,2022-7663,ME,7.25,Rejected,0,,,Not Verified,0.0
+262,Student 0262,2022,2022-7794,ECE,8.02,Interview,0,,,Pending,0.0
+263,Student 0263,2022,2022-7838,EE,8.38,Selected,1,NVIDIA,Off Campus Placed,Verified,8.0
+264,Student 0264,2022,2022-7719,EE,6.94,Rejected,0,,,Not Verified,0.0
+265,Student 0265,2022,2022-7635,EE,7.1,Rejected,0,,,Not Verified,0.0
+266,Student 0266,2022,2022-7845,ME,6.8,Rejected,0,,,Not Joined,0.0
+267,Student 0267,2022,2022-7614,CSE,6.89,Shortlisted,0,,,Not Verified,0.0
+268,Student 0268,2022,2022-7807,ME,7.98,Selected,1,Wipro,BP Placed,Verified,7.0
+269,Student 0269,2022,2022-7799,ECE,6.67,Shortlisted,0,,,Not Verified,0.0
+270,Student 0270,2022,2022-7816,ECE,6.83,Selected,1,TCS,T&P Placed,Pending,13.0
+271,Student 0271,2022,2022-7785,ECE,8.44,Interview,0,,,Pending,0.0
+272,Student 0272,2022,2022-7700,CSE,9.13,Selected,1,Deloitte,Off Campus Placed,Verified,28.5
+273,Student 0273,2022,2022-7769,ME,6.24,Selected,1,TCS,BP Placed,Not Joined,10.0
+274,Student 0274,2022,2022-7622,ME,6.84,Rejected,0,,,Pending,0.0
+275,Student 0275,2022,2022-7699,CSE,9.08,In Process,0,,,Pending,0.0
+276,Student 0276,2022,2022-7801,CE,7.73,Rejected,0,,,Not Joined,0.0
+277,Student 0277,2022,2022-7849,ECE,8.97,Selected,1,Databricks,T&P Placed,Verified,6.2
+278,Student 0278,2022,2022-7749,CE,9.11,Selected,1,Infosys,BP Placed,Pending,30.0
+279,Student 0279,2022,2022-7629,ME,7.78,In Process,0,,,Not Verified,0.0
+280,Student 0280,2022,2022-7660,CE,9.33,Rejected,0,,,Pending,0.0
+281,Student 0281,2022,2022-7741,CSE,8.44,In Process,0,,,Not Verified,0.0
+282,Student 0282,2022,2022-7775,ME,8.09,Interview,0,,,Not Verified,0.0
+283,Student 0283,2022,2022-7870,ME,6.87,Rejected,0,,,Pending,0.0
+284,Student 0284,2022,2022-7659,CSE,8.54,Rejected,0,,,Not Verified,0.0
+285,Student 0285,2022,2022-7693,ECE,6.9,Selected,1,NVIDIA,Self Placed,Pending,25.0
+286,Student 0286,2022,2022-7809,CSE,6.16,Selected,1,Deloitte,Self Placed,Verified,15.5
+287,Student 0287,2022,2022-7648,CSE,8.63,Rejected,0,,,Not Verified,0.0
+288,Student 0288,2022,2022-7746,CSE,6.96,Selected,1,NVIDIA,Self Placed,Pending,7.5
+289,Student 0289,2022,2022-7675,ECE,10.0,In Process,0,,,Verified,0.0
+290,Student 0290,2022,2022-7802,ECE,8.8,Selected,1,Microsoft,T&P Placed,Verified,9.0
+291,Student 0291,2022,2022-7706,ME,7.64,Interview,0,,,Pending,0.0
+292,Student 0292,2022,2022-7670,ME,10.0,Selected,1,Wipro,Off Campus Placed,Pending,10.0
+293,Student 0293,2022,2022-7621,ME,8.32,Selected,1,NVIDIA,BP Placed,Verified,10.2
+294,Student 0294,2022,2022-7848,ME,9.95,Selected,1,NVIDIA,T&P Placed,Verified,18.2
+295,Student 0295,2022,2022-7810,ME,8.81,Rejected,0,,,Not Verified,0.0
+296,Student 0296,2022,2022-7643,CSE,7.25,Shortlisted,0,,,Not Verified,0.0
+297,Student 0297,2022,2022-7821,CE,8.01,Selected,1,Databricks,Off Campus Placed,Verified,6.0
+298,Student 0298,2022,2022-7727,CSE,9.08,Selected,1,Wipro,BP Placed,Verified,24.0
+299,Student 0299,2022,2022-7607,ECE,8.15,Selected,1,NVIDIA,Off Campus Placed,Verified,6.2
+300,Student 0300,2022,2022-7754,CE,6.38,Selected,1,Capgemini,BP Placed,Not Verified,25.0
+301,Student 0301,2022,2022-7704,CE,7.42,Shortlisted,0,,,Not Verified,0.0
+302,Student 0302,2022,2022-7768,ME,9.25,Rejected,0,,,Not Verified,0.0
+303,Student 0303,2022,2022-7812,EE,7.0,Interview,0,,,Not Joined,0.0
+304,Student 0304,2022,2022-7888,EE,8.36,Shortlisted,0,,,Pending,0.0
+305,Student 0305,2022,2022-7883,ECE,7.06,Selected,1,Amazon,Off Campus Placed,Verified,10.0
+306,Student 0306,2022,2022-7678,ME,5.79,Selected,1,Siemens,Self Placed,Verified,7.0
+307,Student 0307,2022,2022-7730,ME,7.73,Rejected,0,,,Pending,0.0
+308,Student 0308,2022,2022-7692,CSE,6.93,Selected,1,Microsoft,T&P Placed,Verified,28.0
+309,Student 0309,2022,2022-7653,ECE,7.11,Shortlisted,0,,,Pending,0.0
+310,Student 0310,2022,2022-7779,ECE,8.66,Rejected,0,,,Pending,0.0
+311,Student 0311,2022,2022-7800,CSE,8.12,Selected,1,Infosys,Self Placed,Verified,8.0
+312,Student 0312,2022,2022-7684,ME,7.77,Selected,1,Capgemini,Self Placed,Not Verified,7.5
+313,Student 0313,2022,2022-7711,CE,7.23,Interview,0,,,Pending,0.0
+314,Student 0314,2022,2022-7669,ME,7.51,Shortlisted,0,,,Pending,0.0
+315,Student 0315,2022,2022-7649,CSE,8.61,Rejected,0,,,Pending,0.0
+316,Student 0316,2022,2022-7601,CSE,9.54,In Process,0,,,Verified,0.0
+317,Student 0317,2022,2022-7814,CE,7.71,In Process,0,,,Not Verified,0.0
+318,Student 0318,2022,2022-7891,ME,7.8,Shortlisted,0,,,Pending,0.0
+319,Student 0319,2022,2022-7842,ECE,7.05,Rejected,0,,,Not Verified,0.0
+320,Student 0320,2022,2022-7701,ME,8.11,Rejected,0,,,Pending,0.0
+321,Student 0321,2022,2022-7642,ECE,8.3,Selected,1,NVIDIA,Self Placed,Pending,18.5
+322,Student 0322,2022,2022-7720,EE,7.68,Rejected,0,,,Not Joined,0.0
+323,Student 0323,2022,2022-7718,CE,9.17,Selected,1,TCS,Self Placed,Verified,28.5
+324,Student 0324,2022,2022-7766,ME,8.21,Selected,1,Infosys,BP Placed,Verified,6.0
+325,Student 0325,2022,2022-7813,ME,8.33,Selected,1,Google,Off Campus Placed,Pending,20.5
+326,Student 0326,2022,2022-7881,ECE,7.46,Selected,1,Infosys,Self Placed,Not Verified,28.0
+327,Student 0327,2022,2022-7716,ECE,8.21,In Process,0,,,Pending,0.0
+328,Student 0328,2022,2022-7893,EE,8.91,In Process,0,,,Not Verified,0.0
+329,Student 0329,2022,2022-7885,EE,8.69,Interview,0,,,Pending,0.0
+330,Student 0330,2022,2022-7857,CE,8.73,Selected,1,Accenture,Self Placed,Pending,7.0
+331,Student 0331,2022,2022-7883,CE,8.32,Selected,1,Deloitte,BP Placed,Verified,6.0
+332,Student 0332,2022,2022-7634,EE,9.7,Selected,1,Deloitte,T&P Placed,Not Verified,6.5
+333,Student 0333,2022,2022-7779,CSE,6.69,In Process,0,,,Pending,0.0
+334,Student 0334,2022,2022-7725,CSE,8.15,Selected,1,NVIDIA,Off Campus Placed,Verified,8.0
+335,Student 0335,2022,2022-7716,EE,8.6,Selected,1,TCS,Off Campus Placed,Verified,9.0
+336,Student 0336,2022,2022-7669,EE,8.75,In Process,0,,,Pending,0.0
+337,Student 0337,2022,2022-7646,CSE,6.88,Selected,1,Google,BP Placed,Verified,9.0
+338,Student 0338,2022,2022-7710,ECE,8.91,Rejected,0,,,Pending,0.0
+339,Student 0339,2022,2022-7781,EE,7.62,Shortlisted,0,,,Not Verified,0.0
+340,Student 0340,2022,2022-7852,CSE,7.92,Rejected,0,,,Pending,0.0
+341,Student 0341,2022,2022-7837,EE,8.15,Selected,1,Capgemini,Self Placed,Verified,9.5
+342,Student 0342,2022,2022-7824,ME,7.54,Selected,1,Wipro,Self Placed,Verified,12.5
+343,Student 0343,2022,2022-7612,CE,8.2,Rejected,0,,,Not Verified,0.0
+344,Student 0344,2022,2022-7615,ECE,7.95,Selected,1,Amazon,Self Placed,Pending,24.5
+345,Student 0345,2022,2022-7660,ME,8.11,Interview,0,,,Not Verified,0.0
+346,Student 0346,2022,2022-7878,CE,8.49,Selected,1,Capgemini,BP Placed,Not Verified,9.2
+347,Student 0347,2022,2022-7600,ME,7.61,Rejected,0,,,Verified,0.0
+348,Student 0348,2022,2022-7671,EE,9.66,In Process,0,,,Not Verified,0.0
+349,Student 0349,2022,2022-7623,ECE,9.1,Selected,1,Capgemini,Off Campus Placed,Verified,18.0
+350,Student 0350,2022,2022-7792,EE,9.48,Selected,1,TCS,BP Placed,Verified,10.2
+351,Student 0351,2022,2022-7679,ECE,6.47,In Process,0,,,Not Verified,0.0
+352,Student 0352,2022,2022-7815,EE,7.62,Rejected,0,,,Not Verified,0.0
+353,Student 0353,2022,2022-7692,ECE,8.05,Shortlisted,0,,,Not Verified,0.0
+354,Student 0354,2022,2022-7626,EE,7.86,Selected,1,NVIDIA,BP Placed,Pending,7.2
+355,Student 0355,2022,2022-7652,ME,7.07,Rejected,0,,,Pending,0.0
+356,Student 0356,2022,2022-7891,CE,8.77,Selected,1,Capgemini,BP Placed,Verified,11.0
+357,Student 0357,2022,2022-7699,CSE,8.86,Shortlisted,0,,,Not Verified,0.0
+358,Student 0358,2022,2022-7796,EE,6.44,Rejected,0,,,Not Verified,0.0
+359,Student 0359,2022,2022-7848,CSE,8.08,Selected,1,Accenture,T&P Placed,Pending,15.5
+360,Student 0360,2022,2022-7831,EE,7.72,Selected,1,Accenture,Self Placed,Verified,15.2
+361,Student 0361,2022,2022-7868,ME,9.05,Selected,1,Databricks,Self Placed,Pending,19.0
+362,Student 0362,2022,2022-7681,EE,9.87,Rejected,0,,,Pending,0.0
+363,Student 0363,2022,2022-7796,ECE,8.77,In Process,0,,,Pending,0.0
+364,Student 0364,2022,2022-7840,ECE,7.13,Selected,1,Databricks,Off Campus Placed,Not Verified,9.5
+365,Student 0365,2022,2022-7701,ECE,7.43,Selected,1,NVIDIA,Off Campus Placed,Verified,8.0
+366,Student 0366,2022,2022-7802,EE,7.83,Selected,1,Capgemini,Self Placed,Verified,18.0
+367,Student 0367,2022,2022-7647,ECE,7.6,Shortlisted,0,,,Not Verified,0.0
+368,Student 0368,2022,2022-7667,ME,6.66,Rejected,0,,,Not Verified,0.0
+369,Student 0369,2022,2022-7678,ECE,6.44,Selected,1,TCS,T&P Placed,Verified,7.0
+370,Student 0370,2022,2022-7777,EE,9.95,Interview,0,,,Not Verified,0.0
+371,Student 0371,2022,2022-7770,ME,8.32,In Process,0,,,Not Verified,0.0
+372,Student 0372,2022,2022-7740,EE,6.16,In Process,0,,,Not Verified,0.0
+373,Student 0373,2022,2022-7633,ME,8.08,Rejected,0,,,Pending,0.0
+374,Student 0374,2022,2022-7797,CE,7.64,Selected,1,Databricks,Off Campus Placed,Verified,18.2
+375,Student 0375,2022,2022-7690,CSE,7.37,In Process,0,,,Not Verified,0.0
+376,Student 0376,2022,2022-7684,ECE,8.73,Selected,1,Microsoft,T&P Placed,Not Verified,15.0
+377,Student 0377,2022,2022-7679,ECE,6.32,Shortlisted,0,,,Not Verified,0.0
+378,Student 0378,2022,2022-7859,EE,8.64,Rejected,0,,,Pending,0.0
+379,Student 0379,2022,2022-7611,ECE,8.09,Selected,1,Databricks,BP Placed,Not Verified,13.0
+380,Student 0380,2022,2022-7796,ME,10.0,Shortlisted,0,,,Not Verified,0.0
+381,Student 0381,2022,2022-7744,ME,9.47,In Process,0,,,Pending,0.0
+382,Student 0382,2022,2022-7677,CE,6.63,Interview,0,,,Not Verified,0.0
+383,Student 0383,2022,2022-7626,ME,9.41,Rejected,0,,,Not Verified,0.0
+384,Student 0384,2022,2022-7680,CE,8.73,Interview,0,,,Verified,0.0
+385,Student 0385,2022,2022-7879,CE,7.91,Interview,0,,,Verified,0.0
+386,Student 0386,2022,2022-7806,ECE,9.27,Shortlisted,0,,,Not Verified,0.0
+387,Student 0387,2022,2022-7826,CSE,8.05,Interview,0,,,Not Verified,0.0
+388,Student 0388,2022,2022-7767,ECE,8.68,Selected,1,Amazon,BP Placed,Verified,12.0
+389,Student 0389,2022,2022-7619,ECE,8.63,In Process,0,,,Pending,0.0
+390,Student 0390,2022,2022-7620,ME,8.34,In Process,0,,,Pending,0.0
+391,Student 0391,2022,2022-7681,EE,7.36,Selected,1,NVIDIA,T&P Placed,Not Verified,6.0
+392,Student 0392,2022,2022-7817,ME,6.97,Selected,1,NVIDIA,Self Placed,Pending,9.5
+393,Student 0393,2022,2022-7779,ECE,8.12,Selected,1,TCS,T&P Placed,Verified,12.0
+394,Student 0394,2022,2022-7837,ME,6.19,Rejected,0,,,Not Verified,0.0
+395,Student 0395,2022,2022-7694,CSE,6.64,Rejected,0,,,Not Joined,0.0
+396,Student 0396,2022,2022-7729,ECE,8.55,Rejected,0,,,Pending,0.0
+397,Student 0397,2022,2022-7892,ME,9.02,Selected,1,Databricks,Self Placed,Verified,10.0
+398,Student 0398,2022,2022-7624,ECE,6.98,Selected,1,Google,Self Placed,Verified,6.0
+399,Student 0399,2022,2022-7619,CE,7.86,In Process,0,,,Not Verified,0.0
+400,Student 0400,2022,2022-7874,CE,7.5,In Process,0,,,Not Verified,0.0
+401,Student 0401,2022,2022-7880,ECE,8.24,Selected,1,Accenture,BP Placed,Verified,18.0
+402,Student 0402,2022,2022-7622,ME,7.92,Rejected,0,,,Pending,0.0
+403,Student 0403,2022,2022-7818,ME,9.08,Selected,1,Amazon,Off Campus Placed,Pending,12.0
+404,Student 0404,2022,2022-7670,EE,7.33,Selected,1,NVIDIA,BP Placed,Not Verified,10.0
+405,Student 0405,2022,2022-7822,CE,6.99,Interview,0,,,Pending,0.0
+406,Student 0406,2022,2022-7869,EE,8.84,Shortlisted,0,,,Pending,0.0
+407,Student 0407,2022,2022-7625,ECE,6.87,Rejected,0,,,Not Verified,0.0
+408,Student 0408,2022,2022-7770,EE,6.15,Shortlisted,0,,,Verified,0.0
+409,Student 0409,2022,2022-7840,CE,7.73,In Process,0,,,Not Verified,0.0
+410,Student 0410,2022,2022-7873,ME,8.0,Selected,1,TCS,Off Campus Placed,Verified,12.2
+411,Student 0411,2022,2022-7681,ME,6.88,Selected,1,Capgemini,Self Placed,Verified,15.5
+412,Student 0412,2022,2022-7660,EE,8.32,In Process,0,,,Not Verified,0.0
+413,Student 0413,2022,2022-7608,EE,7.08,In Process,0,,,Pending,0.0
+414,Student 0414,2022,2022-7747,ME,9.79,Selected,1,Deloitte,Off Campus Placed,Verified,6.5
+415,Student 0415,2022,2022-7621,EE,8.02,Selected,1,Google,T&P Placed,Verified,8.5
+416,Student 0416,2022,2022-7637,CSE,7.07,Rejected,0,,,Not Verified,0.0
+417,Student 0417,2022,2022-7721,CSE,6.63,Interview,0,,,Not Verified,0.0
+418,Student 0418,2022,2022-7676,ME,7.37,Selected,1,Siemens,Self Placed,Verified,7.5
+419,Student 0419,2022,2022-7877,ECE,9.52,Rejected,0,,,Pending,0.0
+420,Student 0420,2022,2022-7834,ME,8.05,Interview,0,,,Pending,0.0
+421,Student 0421,2022,2022-7675,CE,8.61,Selected,1,Infosys,Off Campus Placed,Verified,6.5
+422,Student 0422,2022,2022-7814,CE,8.28,Selected,1,Infosys,Off Campus Placed,Verified,18.0
+423,Student 0423,2022,2022-7668,EE,8.43,Shortlisted,0,,,Not Verified,0.0
+424,Student 0424,2022,2022-7663,CSE,6.7,Selected,1,Databricks,BP Placed,Verified,8.0
+425,Student 0425,2022,2022-7600,ECE,9.51,Selected,1,Amazon,T&P Placed,Not Joined,16.0
+426,Student 0426,2022,2022-7728,CSE,9.68,Selected,1,Deloitte,Off Campus Placed,Verified,7.5
+427,Student 0427,2022,2022-7621,CE,8.11,Interview,0,,,Pending,0.0
+428,Student 0428,2022,2022-7716,CE,7.14,In Process,0,,,Pending,0.0
+429,Student 0429,2022,2022-7855,CE,7.57,Rejected,0,,,Not Joined,0.0
+430,Student 0430,2022,2022-7847,CSE,7.93,In Process,0,,,Not Verified,0.0
+431,Student 0431,2022,2022-7622,ME,7.01,Interview,0,,,Not Verified,0.0
+432,Student 0432,2022,2022-7861,CSE,9.53,Rejected,0,,,Pending,0.0
+433,Student 0433,2022,2022-7629,CE,7.88,Selected,1,Deloitte,Self Placed,Pending,8.2
+434,Student 0434,2022,2022-7860,CE,9.59,In Process,0,,,Pending,0.0
+435,Student 0435,2022,2022-7857,CE,6.62,Rejected,0,,,Pending,0.0
+436,Student 0436,2022,2022-7732,CSE,8.95,In Process,0,,,Not Verified,0.0
+437,Student 0437,2022,2022-7820,EE,9.5,Shortlisted,0,,,Not Verified,0.0
+438,Student 0438,2022,2022-7867,CE,7.4,Selected,1,Wipro,Self Placed,Verified,19.0
+439,Student 0439,2022,2022-7668,ECE,7.98,Interview,0,,,Not Verified,0.0
+440,Student 0440,2022,2022-7885,CE,8.67,In Process,0,,,Not Joined,0.0
+441,Student 0441,2022,2022-7896,CSE,9.2,Shortlisted,0,,,Not Verified,0.0
+442,Student 0442,2022,2022-7632,ME,8.59,Selected,1,Databricks,BP Placed,Not Verified,20.2
+443,Student 0443,2022,2022-7865,EE,7.73,Rejected,0,,,Not Joined,0.0
+444,Student 0444,2022,2022-7682,EE,7.42,Selected,1,Accenture,Off Campus Placed,Pending,28.0
+445,Student 0445,2022,2022-7757,ECE,7.29,Interview,0,,,Not Verified,0.0
+446,Student 0446,2022,2022-7663,EE,8.15,Selected,1,Capgemini,Self Placed,Verified,6.5
+447,Student 0447,2022,2022-7703,EE,6.61,Selected,1,Wipro,Off Campus Placed,Verified,6.2
+448,Student 0448,2022,2022-7739,CE,7.85,Rejected,0,,,Not Verified,0.0
+449,Student 0449,2022,2022-7680,ME,7.9,Rejected,0,,,Not Verified,0.0
+450,Student 0450,2022,2022-7716,CSE,6.74,Selected,1,Deloitte,T&P Placed,Verified,9.0
+451,Student 0451,2022,2022-7867,CSE,8.35,Selected,1,Deloitte,T&P Placed,Not Verified,10.0
+452,Student 0452,2022,2022-7763,ME,7.04,Selected,1,Google,T&P Placed,Verified,10.0
+453,Student 0453,2022,2022-7806,CSE,8.07,In Process,0,,,Not Verified,0.0
+454,Student 0454,2022,2022-7759,EE,8.39,Selected,1,Siemens,Off Campus Placed,Verified,6.0
+455,Student 0455,2022,2022-7769,CE,6.96,Interview,0,,,Pending,0.0
+456,Student 0456,2022,2022-7707,ME,9.75,Interview,0,,,Pending,0.0
+457,Student 0457,2022,2022-7671,ME,9.04,Selected,1,TCS,T&P Placed,Verified,16.0
+458,Student 0458,2022,2022-7865,CE,7.34,Selected,1,Google,BP Placed,Pending,9.2
+459,Student 0459,2022,2022-7854,CE,7.49,Selected,1,Accenture,Off Campus Placed,Verified,9.0
+460,Student 0460,2022,2022-7742,EE,7.61,In Process,0,,,Verified,0.0
+461,Student 0461,2022,2022-7660,CSE,10.0,Rejected,0,,,Verified,0.0
+462,Student 0462,2022,2022-7648,ECE,7.62,Shortlisted,0,,,Not Verified,0.0
+463,Student 0463,2022,2022-7750,EE,6.79,Selected,1,TCS,Off Campus Placed,Not Verified,15.0
+464,Student 0464,2022,2022-7821,EE,8.38,Rejected,0,,,Pending,0.0
+465,Student 0465,2022,2022-7859,CSE,7.94,Selected,1,Amazon,Self Placed,Verified,10.2
+466,Student 0466,2022,2022-7615,EE,7.58,Shortlisted,0,,,Not Joined,0.0
+467,Student 0467,2022,2022-7810,EE,8.16,Rejected,0,,,Not Verified,0.0
+468,Student 0468,2022,2022-7731,EE,7.66,In Process,0,,,Pending,0.0
+469,Student 0469,2022,2022-7871,EE,6.88,Selected,1,NVIDIA,Off Campus Placed,Not Verified,7.2
+470,Student 0470,2022,2022-7773,CE,9.63,Selected,1,Google,Off Campus Placed,Not Joined,7.2
+471,Student 0471,2022,2022-7674,CE,7.2,Selected,1,Infosys,Self Placed,Verified,7.2
+472,Student 0472,2022,2022-7843,EE,5.3,In Process,0,,,Not Verified,0.0
+473,Student 0473,2022,2022-7878,ECE,8.79,Rejected,0,,,Not Verified,0.0
+474,Student 0474,2022,2022-7824,ECE,7.15,Selected,1,Microsoft,BP Placed,Verified,7.2
+475,Student 0475,2022,2022-7873,ME,8.85,Rejected,0,,,Not Verified,0.0
+476,Student 0476,2022,2022-7740,ME,6.5,Selected,1,Infosys,T&P Placed,Verified,15.0
+477,Student 0477,2022,2022-7768,CE,8.62,In Process,0,,,Not Verified,0.0
+478,Student 0478,2022,2022-7690,CE,7.85,Rejected,0,,,Pending,0.0
+479,Student 0479,2022,2022-7774,EE,5.76,Rejected,0,,,Pending,0.0
+480,Student 0480,2022,2022-7804,CE,10.0,Selected,1,Microsoft,Self Placed,Pending,19.0
+481,Student 0481,2022,2022-7631,ME,10.0,Interview,0,,,Pending,0.0
+482,Student 0482,2022,2022-7730,ECE,9.17,Rejected,0,,,Verified,0.0
+483,Student 0483,2022,2022-7752,CE,8.78,Rejected,0,,,Pending,0.0
+484,Student 0484,2022,2022-7604,CSE,7.64,Selected,1,Wipro,BP Placed,Not Joined,15.0
+485,Student 0485,2022,2022-7604,ECE,7.99,In Process,0,,,Not Joined,0.0
+486,Student 0486,2022,2022-7693,CSE,8.14,Selected,1,Accenture,Self Placed,Verified,8.0
+487,Student 0487,2022,2022-7718,ECE,7.37,Selected,1,TCS,Off Campus Placed,Verified,18.0
+488,Student 0488,2022,2022-7778,ECE,6.9,Shortlisted,0,,,Pending,0.0
+489,Student 0489,2022,2022-7807,ME,6.56,Interview,0,,,Not Verified,0.0
+490,Student 0490,2022,2022-7756,CE,8.99,Rejected,0,,,Not Verified,0.0
+491,Student 0491,2022,2022-7696,CSE,7.65,Interview,0,,,Not Verified,0.0
+492,Student 0492,2022,2022-7728,ME,7.71,Shortlisted,0,,,Pending,0.0
+493,Student 0493,2022,2022-7681,CSE,6.72,Interview,0,,,Not Joined,0.0
+494,Student 0494,2022,2022-7635,CSE,8.0,Selected,1,Infosys,T&P Placed,Not Verified,7.0
+495,Student 0495,2022,2022-7693,EE,6.77,Rejected,0,,,Not Joined,0.0
+496,Student 0496,2022,2022-7635,ME,7.56,Shortlisted,0,,,Not Verified,0.0
+497,Student 0497,2022,2022-7711,CSE,8.55,Shortlisted,0,,,Not Verified,0.0
+498,Student 0498,2022,2022-7880,ECE,7.88,Selected,1,Amazon,Self Placed,Verified,7.0
+499,Student 0499,2022,2022-7743,ME,7.44,In Process,0,,,Not Verified,0.0
+500,Student 0500,2022,2022-7879,CE,8.05,Shortlisted,0,,,Not Joined,0.0
+501,Student 0501,2022,2022-7849,EE,7.87,Selected,1,Amazon,Self Placed,Pending,18.0
+502,Student 0502,2022,2022-7726,EE,6.8,Rejected,0,,,Not Verified,0.0
+503,Student 0503,2022,2022-7784,ECE,8.37,Selected,1,NVIDIA,BP Placed,Verified,7.0
+504,Student 0504,2022,2022-7777,ECE,6.97,In Process,0,,,Not Verified,0.0
+505,Student 0505,2022,2022-7639,CE,7.63,Selected,1,TCS,Self Placed,Verified,18.2
+506,Student 0506,2022,2022-7843,ME,6.08,Rejected,0,,,Verified,0.0
+507,Student 0507,2022,2022-7762,ME,7.9,In Process,0,,,Pending,0.0
+508,Student 0508,2022,2022-7744,EE,6.58,Selected,1,Microsoft,Off Campus Placed,Verified,18.0
+509,Student 0509,2022,2022-7600,CE,7.43,Selected,1,Accenture,BP Placed,Verified,10.2
+510,Student 0510,2022,2022-7838,ECE,7.6,Selected,1,Databricks,Off Campus Placed,Verified,7.0
+511,Student 0511,2022,2022-7795,CE,7.85,Selected,1,Siemens,Self Placed,Verified,6.0
+512,Student 0512,2022,2022-7775,ECE,9.84,Selected,1,TCS,Off Campus Placed,Verified,6.0
+513,Student 0513,2022,2022-7712,EE,7.87,Selected,1,Siemens,Off Campus Placed,Verified,6.2
+514,Student 0514,2022,2022-7830,EE,9.05,Rejected,0,,,Not Verified,0.0
+515,Student 0515,2022,2022-7774,EE,8.47,Shortlisted,0,,,Pending,0.0
+516,Student 0516,2022,2022-7648,ME,8.68,Selected,1,Deloitte,T&P Placed,Verified,18.0
+517,Student 0517,2022,2022-7863,ME,7.38,Interview,0,,,Not Verified,0.0
+518,Student 0518,2022,2022-7836,CSE,7.9,Shortlisted,0,,,Pending,0.0
+519,Student 0519,2022,2022-7852,EE,6.57,Rejected,0,,,Pending,0.0
+520,Student 0520,2022,2022-7662,EE,9.13,Selected,1,Deloitte,Off Campus Placed,Not Verified,28.5
+521,Student 0521,2023,2023-7792,EE,8.4,Rejected,0,,,Pending,0.0
+522,Student 0522,2023,2023-7887,ME,8.96,Rejected,0,,,Not Verified,0.0
+523,Student 0523,2023,2023-7812,EE,6.62,Selected,1,Capgemini,BP Placed,Not Verified,9.0
+524,Student 0524,2023,2023-7739,ME,7.49,Interview,0,,,Not Verified,0.0
+525,Student 0525,2023,2023-7718,ME,7.08,Selected,1,Deloitte,BP Placed,Verified,8.0
+526,Student 0526,2023,2023-7746,ECE,7.09,Selected,1,Wipro,T&P Placed,Verified,24.5
+527,Student 0527,2023,2023-7865,CE,8.69,Interview,0,,,Pending,0.0
+528,Student 0528,2023,2023-7625,CSE,7.68,Selected,1,Microsoft,Self Placed,Pending,12.5
+529,Student 0529,2023,2023-7664,ME,7.32,In Process,0,,,Pending,0.0
+530,Student 0530,2023,2023-7786,ECE,7.87,Shortlisted,0,,,Pending,0.0
+531,Student 0531,2023,2023-7671,ME,8.53,Shortlisted,0,,,Not Verified,0.0
+532,Student 0532,2023,2023-7778,EE,7.98,Rejected,0,,,Not Verified,0.0
+533,Student 0533,2023,2023-7724,EE,6.7,Rejected,0,,,Not Verified,0.0
+534,Student 0534,2023,2023-7692,ECE,8.76,In Process,0,,,Not Verified,0.0
+535,Student 0535,2023,2023-7674,CSE,7.38,Rejected,0,,,Pending,0.0
+536,Student 0536,2023,2023-7728,CE,9.81,Selected,1,TCS,BP Placed,Not Verified,9.0
+537,Student 0537,2023,2023-7737,CSE,7.04,Rejected,0,,,Not Verified,0.0
+538,Student 0538,2023,2023-7740,ECE,6.66,Interview,0,,,Not Verified,0.0
+539,Student 0539,2023,2023-7614,CSE,6.26,Selected,1,Accenture,Self Placed,Verified,20.2
+540,Student 0540,2023,2023-7625,CSE,9.07,Rejected,0,,,Verified,0.0
+541,Student 0541,2023,2023-7641,ECE,8.71,Rejected,0,,,Not Verified,0.0
+542,Student 0542,2023,2023-7856,EE,8.68,Rejected,0,,,Pending,0.0
+543,Student 0543,2023,2023-7876,ECE,9.42,Interview,0,,,Not Verified,0.0
+544,Student 0544,2023,2023-7785,CSE,7.19,Rejected,0,,,Pending,0.0
+545,Student 0545,2023,2023-7779,CE,9.12,Selected,1,Siemens,BP Placed,Verified,12.5
+546,Student 0546,2023,2023-7616,EE,8.08,In Process,0,,,Not Verified,0.0
+547,Student 0547,2023,2023-7798,ECE,7.27,Selected,1,Wipro,T&P Placed,Verified,7.0
+548,Student 0548,2023,2023-7838,CE,7.87,Selected,1,NVIDIA,Self Placed,Verified,9.0
+549,Student 0549,2023,2023-7808,CSE,6.92,Selected,1,NVIDIA,Self Placed,Verified,10.0
+550,Student 0550,2023,2023-7745,EE,9.07,Selected,1,Wipro,Off Campus Placed,Verified,9.2
+551,Student 0551,2023,2023-7898,ME,8.32,Rejected,0,,,Pending,0.0
+552,Student 0552,2023,2023-7832,ECE,6.8,Rejected,0,,,Not Verified,0.0
+553,Student 0553,2023,2023-7895,ME,7.13,Shortlisted,0,,,Not Joined,0.0
+554,Student 0554,2023,2023-7877,ECE,7.51,Selected,1,Accenture,T&P Placed,Not Verified,8.5
+555,Student 0555,2023,2023-7836,CE,5.2,Selected,1,Databricks,BP Placed,Verified,21.0
+556,Student 0556,2023,2023-7893,ME,6.35,Shortlisted,0,,,Verified,0.0
+557,Student 0557,2023,2023-7729,CE,6.53,Shortlisted,0,,,Not Verified,0.0
+558,Student 0558,2023,2023-7766,EE,7.81,Interview,0,,,Pending,0.0
+559,Student 0559,2023,2023-7645,ECE,7.46,Rejected,0,,,Not Verified,0.0
+560,Student 0560,2023,2023-7636,CSE,7.92,Interview,0,,,Verified,0.0
+561,Student 0561,2023,2023-7791,ECE,7.66,Rejected,0,,,Pending,0.0
+562,Student 0562,2023,2023-7849,CSE,6.42,Rejected,0,,,Not Verified,0.0
+563,Student 0563,2023,2023-7618,ME,8.83,In Process,0,,,Not Verified,0.0
+564,Student 0564,2023,2023-7879,CSE,8.5,Rejected,0,,,Pending,0.0
+565,Student 0565,2023,2023-7680,EE,8.57,Rejected,0,,,Not Joined,0.0
+566,Student 0566,2023,2023-7696,CE,9.18,Rejected,0,,,Not Verified,0.0
+567,Student 0567,2023,2023-7777,ME,6.66,Rejected,0,,,Pending,0.0
+568,Student 0568,2023,2023-7602,CSE,5.92,Rejected,0,,,Not Verified,0.0
+569,Student 0569,2023,2023-7663,CSE,7.91,Rejected,0,,,Pending,0.0
+570,Student 0570,2023,2023-7813,ECE,6.83,Selected,1,Infosys,BP Placed,Verified,8.5
+571,Student 0571,2023,2023-7658,CE,8.17,Rejected,0,,,Not Verified,0.0
+572,Student 0572,2023,2023-7615,ME,7.93,Selected,1,Microsoft,Self Placed,Verified,7.0
+573,Student 0573,2023,2023-7737,ME,8.28,Rejected,0,,,Not Verified,0.0
+574,Student 0574,2023,2023-7662,CE,9.01,Interview,0,,,Not Verified,0.0
+575,Student 0575,2023,2023-7809,CE,6.8,In Process,0,,,Not Joined,0.0
+576,Student 0576,2023,2023-7623,CE,8.74,Rejected,0,,,Not Verified,0.0
+577,Student 0577,2023,2023-7885,CSE,9.24,Rejected,0,,,Not Joined,0.0
+578,Student 0578,2023,2023-7688,CSE,7.97,In Process,0,,,Not Joined,0.0
+579,Student 0579,2023,2023-7756,CSE,7.44,Rejected,0,,,Not Joined,0.0
+580,Student 0580,2023,2023-7739,CSE,8.56,Shortlisted,0,,,Not Joined,0.0
+581,Student 0581,2023,2023-7786,ECE,8.61,Rejected,0,,,Not Verified,0.0
+582,Student 0582,2023,2023-7620,CE,7.22,Rejected,0,,,Verified,0.0
+583,Student 0583,2023,2023-7711,CE,8.65,Interview,0,,,Not Verified,0.0
+584,Student 0584,2023,2023-7888,ME,10.0,Selected,1,Capgemini,Off Campus Placed,Pending,6.0
+585,Student 0585,2023,2023-7719,ECE,10.0,In Process,0,,,Not Verified,0.0
+586,Student 0586,2023,2023-7682,ME,8.65,Selected,1,Siemens,T&P Placed,Not Verified,6.0
+587,Student 0587,2023,2023-7865,CE,9.27,Shortlisted,0,,,Pending,0.0
+588,Student 0588,2023,2023-7638,CE,8.09,Selected,1,Accenture,Self Placed,Verified,10.0
+589,Student 0589,2023,2023-7727,ME,7.59,In Process,0,,,Pending,0.0
+590,Student 0590,2023,2023-7745,CE,7.85,Selected,1,TCS,Self Placed,Verified,8.0
+591,Student 0591,2023,2023-7886,EE,5.81,Interview,0,,,Not Verified,0.0
+592,Student 0592,2023,2023-7613,EE,6.89,Selected,1,Amazon,Self Placed,Not Verified,6.0
+593,Student 0593,2023,2023-7759,EE,6.35,Rejected,0,,,Not Verified,0.0
+594,Student 0594,2023,2023-7620,CE,5.77,Selected,1,Accenture,Off Campus Placed,Verified,7.2
+595,Student 0595,2023,2023-7650,CSE,7.05,Selected,1,Accenture,Self Placed,Not Joined,6.0
+596,Student 0596,2023,2023-7870,ME,7.94,Interview,0,,,Not Joined,0.0
+597,Student 0597,2023,2023-7641,EE,7.5,Selected,1,Siemens,Off Campus Placed,Pending,7.5
+598,Student 0598,2023,2023-7742,ECE,8.43,Selected,1,Wipro,Self Placed,Verified,24.5
+599,Student 0599,2023,2023-7806,ECE,8.41,Rejected,0,,,Verified,0.0
+600,Student 0600,2023,2023-7808,CSE,7.38,In Process,0,,,Not Joined,0.0
+601,Student 0601,2023,2023-7781,CE,9.21,Interview,0,,,Verified,0.0
+602,Student 0602,2023,2023-7629,ME,8.66,Selected,1,Capgemini,Self Placed,Not Verified,7.0
+603,Student 0603,2023,2023-7767,EE,7.88,Selected,1,TCS,BP Placed,Pending,10.0
+604,Student 0604,2023,2023-7621,CSE,7.58,Selected,1,Amazon,T&P Placed,Not Verified,18.0
+605,Student 0605,2023,2023-7848,CSE,6.26,Rejected,0,,,Not Joined,0.0
+606,Student 0606,2023,2023-7829,CSE,6.57,Selected,1,Microsoft,BP Placed,Verified,18.0
+607,Student 0607,2023,2023-7676,ECE,6.16,In Process,0,,,Not Verified,0.0
+608,Student 0608,2023,2023-7612,EE,9.39,Selected,1,Databricks,Self Placed,Verified,6.0
+609,Student 0609,2023,2023-7775,ME,9.29,Rejected,0,,,Not Verified,0.0
+610,Student 0610,2023,2023-7896,ECE,7.22,Selected,1,NVIDIA,Off Campus Placed,Verified,8.2
+611,Student 0611,2023,2023-7628,CE,8.24,Shortlisted,0,,,Not Joined,0.0
+612,Student 0612,2023,2023-7757,CSE,8.13,Selected,1,Microsoft,BP Placed,Not Joined,20.0
+613,Student 0613,2023,2023-7614,ECE,7.18,Selected,1,Wipro,BP Placed,Pending,7.0
+614,Student 0614,2023,2023-7836,EE,8.41,Selected,1,Wipro,Off Campus Placed,Pending,10.0
+615,Student 0615,2023,2023-7685,ME,7.4,Selected,1,NVIDIA,T&P Placed,Verified,9.0
+616,Student 0616,2023,2023-7788,EE,7.59,Selected,1,Amazon,Off Campus Placed,Pending,15.0
+617,Student 0617,2023,2023-7716,EE,7.42,Interview,0,,,Not Verified,0.0
+618,Student 0618,2023,2023-7897,ME,7.76,Selected,1,Amazon,Off Campus Placed,Pending,11.0
+619,Student 0619,2023,2023-7658,CE,7.12,In Process,0,,,Not Verified,0.0
+620,Student 0620,2023,2023-7678,CSE,7.17,In Process,0,,,Not Verified,0.0
+621,Student 0621,2023,2023-7605,ECE,8.31,In Process,0,,,Not Verified,0.0
+622,Student 0622,2023,2023-7771,EE,8.76,Rejected,0,,,Pending,0.0
+623,Student 0623,2023,2023-7879,CSE,6.99,Rejected,0,,,Pending,0.0
+624,Student 0624,2023,2023-7754,ECE,7.66,Selected,1,Siemens,Off Campus Placed,Verified,6.2
+625,Student 0625,2023,2023-7788,CSE,9.14,Selected,1,Google,Self Placed,Pending,7.5
+626,Student 0626,2023,2023-7884,CSE,8.43,Selected,1,Accenture,Off Campus Placed,Not Verified,9.2
+627,Student 0627,2023,2023-7704,CSE,8.08,Rejected,0,,,Not Verified,0.0
+628,Student 0628,2023,2023-7746,ME,6.84,Shortlisted,0,,,Pending,0.0
+629,Student 0629,2023,2023-7843,CSE,7.94,In Process,0,,,Verified,0.0
+630,Student 0630,2023,2023-7748,ECE,6.46,Interview,0,,,Not Verified,0.0
+631,Student 0631,2023,2023-7627,ME,7.5,Rejected,0,,,Not Verified,0.0
+632,Student 0632,2023,2023-7655,ECE,8.09,Selected,1,NVIDIA,T&P Placed,Not Verified,8.0
+633,Student 0633,2023,2023-7672,ECE,6.85,Selected,1,Wipro,BP Placed,Pending,9.0
+634,Student 0634,2023,2023-7782,ME,9.85,Rejected,0,,,Not Joined,0.0
+635,Student 0635,2023,2023-7663,ECE,7.98,Selected,1,Microsoft,T&P Placed,Verified,10.5
+636,Student 0636,2023,2023-7851,CSE,8.07,In Process,0,,,Pending,0.0
+637,Student 0637,2023,2023-7812,ME,7.66,Rejected,0,,,Not Verified,0.0
+638,Student 0638,2023,2023-7763,CE,7.06,Rejected,0,,,Pending,0.0
+639,Student 0639,2023,2023-7832,ME,8.14,Selected,1,Accenture,Self Placed,Verified,10.5
+640,Student 0640,2023,2023-7729,CE,9.8,Shortlisted,0,,,Verified,0.0
+641,Student 0641,2023,2023-7751,CSE,8.77,Selected,1,Siemens,BP Placed,Verified,10.0
+642,Student 0642,2023,2023-7688,CSE,8.22,Interview,0,,,Not Verified,0.0
+643,Student 0643,2023,2023-7873,EE,6.88,Selected,1,NVIDIA,Off Campus Placed,Verified,15.0
+644,Student 0644,2023,2023-7763,EE,8.55,Rejected,0,,,Verified,0.0
+645,Student 0645,2023,2023-7645,CSE,5.49,In Process,0,,,Not Verified,0.0
+646,Student 0646,2023,2023-7786,EE,8.45,In Process,0,,,Pending,0.0
+647,Student 0647,2023,2023-7830,EE,7.38,Selected,1,NVIDIA,Self Placed,Verified,8.0
+648,Student 0648,2023,2023-7680,CE,8.61,Interview,0,,,Not Verified,0.0
+649,Student 0649,2023,2023-7715,EE,7.76,Selected,1,Siemens,Off Campus Placed,Verified,8.0
+650,Student 0650,2023,2023-7653,CE,7.93,Selected,1,TCS,Off Campus Placed,Not Joined,10.0
+651,Student 0651,2023,2023-7753,ME,8.79,Rejected,0,,,Not Verified,0.0
+652,Student 0652,2023,2023-7693,CSE,7.2,Selected,1,NVIDIA,T&P Placed,Verified,7.2
+653,Student 0653,2023,2023-7752,EE,7.39,Selected,1,Microsoft,BP Placed,Verified,15.2
+654,Student 0654,2023,2023-7652,CSE,8.32,Selected,1,NVIDIA,BP Placed,Verified,9.0
+655,Student 0655,2023,2023-7715,CSE,9.34,Shortlisted,0,,,Not Verified,0.0
+656,Student 0656,2023,2023-7772,ECE,7.86,Selected,1,Infosys,Self Placed,Verified,29.0
+657,Student 0657,2023,2023-7667,CE,8.09,Selected,1,NVIDIA,T&P Placed,Pending,6.0
+658,Student 0658,2023,2023-7800,CE,6.9,Selected,1,Google,T&P Placed,Not Verified,28.2
+659,Student 0659,2023,2023-7866,ME,8.14,In Process,0,,,Not Verified,0.0
+660,Student 0660,2023,2023-7869,CE,7.8,Selected,1,Microsoft,Self Placed,Not Joined,12.5
+661,Student 0661,2023,2023-7862,ME,9.74,Selected,1,Microsoft,BP Placed,Verified,9.0
+662,Student 0662,2023,2023-7865,EE,7.12,Shortlisted,0,,,Not Verified,0.0
+663,Student 0663,2023,2023-7737,CSE,8.43,Selected,1,TCS,Self Placed,Pending,10.0
+664,Student 0664,2023,2023-7874,EE,7.2,Selected,1,Infosys,BP Placed,Not Joined,8.0
+665,Student 0665,2023,2023-7634,CE,7.24,Interview,0,,,Pending,0.0
+666,Student 0666,2023,2023-7749,ME,8.53,In Process,0,,,Verified,0.0
+667,Student 0667,2023,2023-7654,CSE,7.83,Selected,1,NVIDIA,T&P Placed,Not Joined,9.0
+668,Student 0668,2023,2023-7784,ECE,8.81,In Process,0,,,Not Joined,0.0
+669,Student 0669,2023,2023-7870,CE,8.2,Selected,1,Microsoft,T&P Placed,Verified,7.5
+670,Student 0670,2023,2023-7720,ME,6.99,Selected,1,Siemens,Self Placed,Verified,8.5
+671,Student 0671,2023,2023-7883,ME,8.92,In Process,0,,,Not Verified,0.0
+672,Student 0672,2023,2023-7715,ECE,7.33,Selected,1,Infosys,BP Placed,Not Verified,20.0
+673,Student 0673,2023,2023-7786,ECE,6.87,Selected,1,Microsoft,Off Campus Placed,Verified,10.0
+674,Student 0674,2023,2023-7858,ME,8.44,Shortlisted,0,,,Not Verified,0.0
+675,Student 0675,2023,2023-7677,ME,7.99,Rejected,0,,,Pending,0.0
+676,Student 0676,2023,2023-7811,ME,8.07,Selected,1,Capgemini,Off Campus Placed,Verified,8.0
+677,Student 0677,2023,2023-7712,CE,6.86,Selected,1,Capgemini,T&P Placed,Not Joined,6.5
+678,Student 0678,2023,2023-7695,ME,7.68,Rejected,0,,,Not Verified,0.0
+679,Student 0679,2023,2023-7794,EE,6.84,Selected,1,NVIDIA,BP Placed,Verified,12.2
+680,Student 0680,2023,2023-7852,ME,9.19,Shortlisted,0,,,Not Joined,0.0
+681,Student 0681,2023,2023-7640,ECE,5.8,In Process,0,,,Pending,0.0
+682,Student 0682,2023,2023-7671,ECE,6.24,Rejected,0,,,Not Verified,0.0
+683,Student 0683,2023,2023-7674,EE,9.25,Rejected,0,,,Pending,0.0
+684,Student 0684,2023,2023-7757,ME,8.42,Selected,1,NVIDIA,Off Campus Placed,Pending,9.5
+685,Student 0685,2023,2023-7600,CE,8.25,Selected,1,Google,Self Placed,Verified,10.0
+686,Student 0686,2023,2023-7690,ME,8.79,In Process,0,,,Not Joined,0.0
+687,Student 0687,2023,2023-7665,EE,8.44,In Process,0,,,Verified,0.0
+688,Student 0688,2023,2023-7723,ME,8.53,Selected,1,Siemens,Self Placed,Pending,12.2
+689,Student 0689,2023,2023-7640,EE,8.05,Selected,1,Accenture,T&P Placed,Verified,10.0
+690,Student 0690,2023,2023-7784,EE,8.63,Selected,1,Amazon,T&P Placed,Verified,24.2
+691,Student 0691,2023,2023-7672,ECE,7.65,Rejected,0,,,Pending,0.0
+692,Student 0692,2023,2023-7601,ME,8.31,Selected,1,Amazon,Self Placed,Pending,12.0
+693,Student 0693,2023,2023-7831,EE,6.88,Selected,1,Databricks,T&P Placed,Not Joined,18.5
+694,Student 0694,2023,2023-7897,ECE,7.01,Selected,1,Infosys,T&P Placed,Pending,7.2
+695,Student 0695,2023,2023-7601,CSE,8.07,Rejected,0,,,Pending,0.0
+696,Student 0696,2023,2023-7666,CSE,7.55,Selected,1,Wipro,Self Placed,Verified,9.0
+697,Student 0697,2023,2023-7732,ECE,6.17,Selected,1,Siemens,Off Campus Placed,Verified,7.0
+698,Student 0698,2023,2023-7742,CE,8.76,Interview,0,,,Pending,0.0
+699,Student 0699,2023,2023-7756,EE,7.32,Selected,1,Accenture,T&P Placed,Verified,20.0
+700,Student 0700,2023,2023-7708,ME,7.66,Rejected,0,,,Pending,0.0
+701,Student 0701,2023,2023-7867,CSE,9.1,Rejected,0,,,Pending,0.0
+702,Student 0702,2023,2023-7630,CSE,8.88,Rejected,0,,,Not Verified,0.0
+703,Student 0703,2023,2023-7629,CSE,8.49,Interview,0,,,Pending,0.0
+704,Student 0704,2023,2023-7860,CE,7.21,Selected,1,Microsoft,Off Campus Placed,Not Verified,16.0
+705,Student 0705,2023,2023-7889,EE,7.97,Shortlisted,0,,,Not Verified,0.0
+706,Student 0706,2023,2023-7865,EE,9.26,Selected,1,Siemens,Off Campus Placed,Verified,18.2
+707,Student 0707,2023,2023-7848,ME,7.23,Selected,1,Microsoft,T&P Placed,Verified,15.0
+708,Student 0708,2023,2023-7815,ME,8.44,In Process,0,,,Verified,0.0
+709,Student 0709,2023,2023-7668,CSE,8.96,Selected,1,TCS,BP Placed,Verified,8.0
+710,Student 0710,2023,2023-7897,EE,8.33,Selected,1,NVIDIA,T&P Placed,Verified,12.0
+711,Student 0711,2023,2023-7706,EE,7.74,Selected,1,Capgemini,BP Placed,Verified,28.0
+712,Student 0712,2023,2023-7860,ME,8.75,Interview,0,,,Not Verified,0.0
+713,Student 0713,2023,2023-7857,CE,9.02,Selected,1,TCS,BP Placed,Verified,10.5
+714,Student 0714,2023,2023-7654,CE,8.04,In Process,0,,,Not Joined,0.0
+715,Student 0715,2023,2023-7722,ECE,5.85,Selected,1,Amazon,Off Campus Placed,Pending,28.0
+716,Student 0716,2023,2023-7755,EE,8.95,Rejected,0,,,Not Verified,0.0
+717,Student 0717,2023,2023-7875,EE,6.52,Rejected,0,,,Verified,0.0
+718,Student 0718,2023,2023-7685,CE,6.32,Selected,1,Deloitte,BP Placed,Verified,10.0
+719,Student 0719,2023,2023-7609,EE,6.78,Rejected,0,,,Not Verified,0.0
+720,Student 0720,2023,2023-7799,CSE,8.95,Rejected,0,,,Pending,0.0
+721,Student 0721,2023,2023-7624,ME,8.34,Rejected,0,,,Pending,0.0
+722,Student 0722,2023,2023-7672,CSE,7.91,Selected,1,Infosys,Self Placed,Pending,8.2
+723,Student 0723,2023,2023-7780,CSE,7.93,Interview,0,,,Verified,0.0
+724,Student 0724,2023,2023-7616,CSE,7.82,Interview,0,,,Not Joined,0.0
+725,Student 0725,2023,2023-7785,CSE,6.14,Rejected,0,,,Not Verified,0.0
+726,Student 0726,2023,2023-7821,CSE,6.54,Selected,1,Deloitte,BP Placed,Pending,7.5
+727,Student 0727,2023,2023-7723,ME,7.01,Shortlisted,0,,,Pending,0.0
+728,Student 0728,2023,2023-7672,ME,7.13,Selected,1,Deloitte,T&P Placed,Verified,11.0
+729,Student 0729,2023,2023-7886,CE,9.07,In Process,0,,,Not Verified,0.0
+730,Student 0730,2023,2023-7885,ECE,7.37,Selected,1,Google,Off Campus Placed,Verified,20.2
+731,Student 0731,2023,2023-7748,CE,7.61,Interview,0,,,Pending,0.0
+732,Student 0732,2023,2023-7652,CSE,7.58,Rejected,0,,,Pending,0.0
+733,Student 0733,2023,2023-7626,ME,8.73,Rejected,0,,,Pending,0.0
+734,Student 0734,2023,2023-7752,ECE,6.83,Selected,1,Accenture,Self Placed,Verified,8.0
+735,Student 0735,2023,2023-7831,CSE,9.82,Selected,1,Wipro,Off Campus Placed,Verified,7.0
+736,Student 0736,2023,2023-7652,EE,8.07,Rejected,0,,,Pending,0.0
+737,Student 0737,2023,2023-7631,EE,9.54,Interview,0,,,Verified,0.0
+738,Student 0738,2023,2023-7726,EE,8.06,In Process,0,,,Not Verified,0.0
+739,Student 0739,2023,2023-7774,CE,7.33,In Process,0,,,Not Joined,0.0
+740,Student 0740,2023,2023-7625,EE,9.2,Rejected,0,,,Not Verified,0.0
+741,Student 0741,2023,2023-7890,ECE,7.98,Rejected,0,,,Not Verified,0.0
+742,Student 0742,2023,2023-7670,CE,10.0,In Process,0,,,Not Joined,0.0
+743,Student 0743,2023,2023-7793,CSE,8.76,Rejected,0,,,Pending,0.0
+744,Student 0744,2023,2023-7704,ME,6.65,Selected,1,TCS,BP Placed,Not Verified,24.2
+745,Student 0745,2023,2023-7714,EE,9.78,Shortlisted,0,,,Not Verified,0.0
+746,Student 0746,2023,2023-7682,CE,8.92,In Process,0,,,Not Verified,0.0
+747,Student 0747,2023,2023-7759,EE,8.32,Interview,0,,,Pending,0.0
+748,Student 0748,2023,2023-7677,ECE,7.25,Selected,1,Microsoft,Off Campus Placed,Pending,6.2
+749,Student 0749,2023,2023-7865,EE,8.25,Selected,1,NVIDIA,Self Placed,Pending,12.0
+750,Student 0750,2023,2023-7730,ME,6.29,Selected,1,Siemens,T&P Placed,Not Verified,24.0
+751,Student 0751,2023,2023-7861,ME,7.3,Interview,0,,,Not Joined,0.0
+752,Student 0752,2023,2023-7620,CE,9.45,Rejected,0,,,Verified,0.0
+753,Student 0753,2023,2023-7681,CSE,7.95,Interview,0,,,Not Verified,0.0
+754,Student 0754,2023,2023-7894,EE,7.51,Selected,1,TCS,Off Campus Placed,Verified,6.0
+755,Student 0755,2023,2023-7682,CSE,6.64,Interview,0,,,Not Verified,0.0
+756,Student 0756,2023,2023-7601,EE,8.73,Shortlisted,0,,,Verified,0.0
+757,Student 0757,2023,2023-7781,ME,9.1,Interview,0,,,Not Verified,0.0
+758,Student 0758,2023,2023-7765,CSE,6.29,Rejected,0,,,Not Verified,0.0
+759,Student 0759,2023,2023-7787,ME,9.36,Shortlisted,0,,,Not Verified,0.0
+760,Student 0760,2023,2023-7719,EE,7.99,Selected,1,Google,Self Placed,Not Verified,7.0
+761,Student 0761,2023,2023-7617,EE,6.97,In Process,0,,,Pending,0.0
+762,Student 0762,2023,2023-7622,ME,7.24,Rejected,0,,,Pending,0.0
+763,Student 0763,2023,2023-7850,EE,6.8,Interview,0,,,Not Verified,0.0
+764,Student 0764,2023,2023-7601,CSE,10.0,Rejected,0,,,Not Verified,0.0
+765,Student 0765,2023,2023-7854,CE,6.51,Rejected,0,,,Pending,0.0
+766,Student 0766,2023,2023-7746,ECE,6.89,Selected,1,Capgemini,BP Placed,Verified,10.0
+767,Student 0767,2023,2023-7677,CE,7.63,Rejected,0,,,Verified,0.0
+768,Student 0768,2023,2023-7843,CSE,7.28,Selected,1,NVIDIA,Self Placed,Verified,6.2
+769,Student 0769,2023,2023-7844,ECE,8.19,Shortlisted,0,,,Not Verified,0.0
+770,Student 0770,2023,2023-7816,CSE,8.48,Interview,0,,,Not Verified,0.0
+771,Student 0771,2023,2023-7720,CE,6.52,Selected,1,Wipro,Off Campus Placed,Not Verified,24.2
+772,Student 0772,2023,2023-7889,ME,7.79,Selected,1,Wipro,T&P Placed,Not Joined,9.5
+773,Student 0773,2023,2023-7816,ECE,10.0,Selected,1,Accenture,T&P Placed,Pending,6.0
+774,Student 0774,2023,2023-7758,EE,7.69,Interview,0,,,Not Verified,0.0
+775,Student 0775,2023,2023-7601,CSE,6.58,Rejected,0,,,Not Verified,0.0
+776,Student 0776,2023,2023-7875,ME,7.2,Selected,1,Siemens,Off Campus Placed,Verified,12.0
+777,Student 0777,2023,2023-7844,ME,9.1,Selected,1,Siemens,BP Placed,Pending,12.0
+778,Student 0778,2023,2023-7773,ME,8.63,Interview,0,,,Not Verified,0.0
+779,Student 0779,2023,2023-7769,ECE,9.09,Selected,1,Accenture,T&P Placed,Verified,28.2
+780,Student 0780,2023,2023-7703,EE,8.23,Interview,0,,,Not Joined,0.0
+781,Student 0781,2023,2023-7693,ME,7.97,Selected,1,Microsoft,T&P Placed,Verified,24.2
+782,Student 0782,2023,2023-7710,CSE,7.93,Selected,1,Databricks,Off Campus Placed,Verified,6.2
+783,Student 0783,2023,2023-7602,EE,8.68,Selected,1,Capgemini,Off Campus Placed,Verified,16.0
+784,Student 0784,2023,2023-7866,CSE,7.55,Rejected,0,,,Not Verified,0.0
+785,Student 0785,2023,2023-7659,EE,6.78,Interview,0,,,Verified,0.0
+786,Student 0786,2023,2023-7795,CSE,9.71,Rejected,0,,,Not Verified,0.0
+787,Student 0787,2023,2023-7671,EE,8.46,Rejected,0,,,Not Verified,0.0
+788,Student 0788,2023,2023-7795,CE,8.09,Rejected,0,,,Not Verified,0.0
+789,Student 0789,2023,2023-7747,CE,6.96,Selected,1,NVIDIA,Off Campus Placed,Verified,15.0
+790,Student 0790,2023,2023-7826,ME,5.86,Selected,1,Siemens,BP Placed,Verified,7.0
+791,Student 0791,2023,2023-7641,ECE,9.22,In Process,0,,,Verified,0.0
+792,Student 0792,2023,2023-7892,EE,9.45,In Process,0,,,Not Verified,0.0
+793,Student 0793,2023,2023-7818,ME,8.4,Selected,1,NVIDIA,Off Campus Placed,Verified,6.5
+794,Student 0794,2023,2023-7870,EE,7.36,Selected,1,Deloitte,Off Campus Placed,Verified,7.0
+795,Student 0795,2023,2023-7872,ME,8.24,Shortlisted,0,,,Not Verified,0.0
+796,Student 0796,2023,2023-7677,ME,7.54,Selected,1,TCS,Off Campus Placed,Verified,7.2
+797,Student 0797,2023,2023-7870,EE,8.62,Shortlisted,0,,,Pending,0.0
+798,Student 0798,2023,2023-7719,ME,9.83,In Process,0,,,Pending,0.0
+799,Student 0799,2023,2023-7853,ECE,7.53,Selected,1,Capgemini,BP Placed,Verified,28.0
+800,Student 0800,2023,2023-7608,CE,7.96,Interview,0,,,Pending,0.0
+801,Student 0801,2023,2023-7873,ECE,7.61,Selected,1,NVIDIA,Self Placed,Verified,9.0
+802,Student 0802,2023,2023-7705,EE,8.74,Selected,1,Capgemini,Self Placed,Verified,24.0
+803,Student 0803,2023,2023-7631,CSE,5.42,Interview,0,,,Not Verified,0.0
+804,Student 0804,2023,2023-7795,EE,6.65,Selected,1,Accenture,Off Campus Placed,Not Joined,7.2
+805,Student 0805,2023,2023-7793,EE,7.76,Shortlisted,0,,,Not Verified,0.0
+806,Student 0806,2023,2023-7694,CE,6.48,Selected,1,Accenture,Self Placed,Verified,20.5
+807,Student 0807,2023,2023-7860,ECE,9.95,Shortlisted,0,,,Not Verified,0.0
+808,Student 0808,2023,2023-7867,ECE,8.09,Rejected,0,,,Not Verified,0.0
+809,Student 0809,2023,2023-7848,CE,7.91,Selected,1,TCS,BP Placed,Not Joined,28.5
+810,Student 0810,2023,2023-7838,CSE,6.88,Selected,1,Wipro,BP Placed,Verified,10.2
+811,Student 0811,2023,2023-7840,ECE,6.58,Rejected,0,,,Pending,0.0
+812,Student 0812,2023,2023-7845,ECE,6.8,Rejected,0,,,Not Verified,0.0
+813,Student 0813,2023,2023-7697,EE,7.78,Rejected,0,,,Not Joined,0.0
+814,Student 0814,2023,2023-7826,CSE,8.21,Selected,1,Wipro,T&P Placed,Not Verified,7.2
+815,Student 0815,2023,2023-7790,EE,7.05,Interview,0,,,Verified,0.0
+816,Student 0816,2023,2023-7857,ECE,9.39,Selected,1,Capgemini,Off Campus Placed,Verified,6.0
+817,Student 0817,2023,2023-7690,CE,8.32,Selected,1,Capgemini,BP Placed,Verified,11.0
+818,Student 0818,2023,2023-7621,EE,6.78,Selected,1,Capgemini,Off Campus Placed,Not Joined,7.0
+819,Student 0819,2023,2023-7655,ECE,7.83,Selected,1,Siemens,BP Placed,Verified,15.2
+820,Student 0820,2023,2023-7628,EE,8.9,Rejected,0,,,Verified,0.0
+821,Student 0821,2023,2023-7708,CE,8.22,Interview,0,,,Not Verified,0.0
+822,Student 0822,2023,2023-7797,ME,9.0,Shortlisted,0,,,Pending,0.0
+823,Student 0823,2023,2023-7716,EE,5.56,Selected,1,NVIDIA,Off Campus Placed,Not Joined,8.0
+824,Student 0824,2023,2023-7631,CE,7.14,Rejected,0,,,Pending,0.0
+825,Student 0825,2023,2023-7837,CSE,8.39,Rejected,0,,,Verified,0.0
+826,Student 0826,2023,2023-7675,ME,7.44,Selected,1,NVIDIA,Off Campus Placed,Pending,7.0
+827,Student 0827,2023,2023-7718,ME,8.24,Selected,1,Siemens,Self Placed,Verified,24.2
+828,Student 0828,2023,2023-7655,ME,7.22,Shortlisted,0,,,Verified,0.0
+829,Student 0829,2023,2023-7789,ME,9.76,Shortlisted,0,,,Pending,0.0
+830,Student 0830,2023,2023-7877,ECE,7.41,Selected,1,Wipro,Off Campus Placed,Verified,6.0
+831,Student 0831,2023,2023-7803,CSE,7.68,Rejected,0,,,Not Verified,0.0
+832,Student 0832,2023,2023-7618,ME,7.39,Selected,1,Wipro,T&P Placed,Verified,9.0
+833,Student 0833,2023,2023-7851,EE,7.12,Selected,1,Infosys,Self Placed,Verified,12.0
+834,Student 0834,2023,2023-7624,ME,6.72,Shortlisted,0,,,Not Verified,0.0
+835,Student 0835,2023,2023-7889,ME,7.54,Rejected,0,,,Verified,0.0
+836,Student 0836,2023,2023-7786,ECE,7.68,In Process,0,,,Not Verified,0.0
+837,Student 0837,2023,2023-7654,ME,8.71,Selected,1,Google,T&P Placed,Verified,9.0
+838,Student 0838,2023,2023-7607,CSE,9.17,Interview,0,,,Pending,0.0
+839,Student 0839,2023,2023-7873,ECE,7.1,Rejected,0,,,Not Joined,0.0
+840,Student 0840,2023,2023-7708,CSE,8.83,Selected,1,Capgemini,Self Placed,Verified,24.2
+841,Student 0841,2023,2023-7676,ECE,8.42,Selected,1,Deloitte,T&P Placed,Verified,12.0
+842,Student 0842,2023,2023-7651,CSE,7.14,Rejected,0,,,Not Joined,0.0
+843,Student 0843,2023,2023-7823,EE,9.33,Selected,1,Databricks,BP Placed,Verified,15.0
+844,Student 0844,2023,2023-7697,EE,9.4,In Process,0,,,Not Verified,0.0
+845,Student 0845,2023,2023-7702,ECE,8.15,Rejected,0,,,Not Verified,0.0
+846,Student 0846,2023,2023-7763,ECE,6.22,Rejected,0,,,Pending,0.0
+847,Student 0847,2023,2023-7760,EE,7.94,Selected,1,Microsoft,Off Campus Placed,Verified,24.0
+848,Student 0848,2023,2023-7842,CE,8.92,Interview,0,,,Not Verified,0.0
+849,Student 0849,2023,2023-7780,CSE,9.6,Interview,0,,,Not Joined,0.0
+850,Student 0850,2023,2023-7844,ME,9.12,Rejected,0,,,Not Joined,0.0
+851,Student 0851,2023,2023-7795,CE,8.58,Shortlisted,0,,,Pending,0.0
+852,Student 0852,2023,2023-7618,CE,8.95,Selected,1,Wipro,T&P Placed,Not Verified,6.0
+853,Student 0853,2023,2023-7741,ME,7.74,Shortlisted,0,,,Pending,0.0
+854,Student 0854,2023,2023-7620,CE,6.01,Rejected,0,,,Not Verified,0.0
+855,Student 0855,2023,2023-7603,CE,6.58,Rejected,0,,,Verified,0.0
+856,Student 0856,2023,2023-7875,CE,7.58,Rejected,0,,,Not Joined,0.0
+857,Student 0857,2023,2023-7682,ME,8.31,Rejected,0,,,Not Verified,0.0
+858,Student 0858,2023,2023-7729,EE,8.92,Rejected,0,,,Not Verified,0.0
+859,Student 0859,2023,2023-7668,ECE,8.25,Selected,1,Amazon,BP Placed,Pending,18.0
+860,Student 0860,2023,2023-7646,EE,6.16,In Process,0,,,Not Joined,0.0
+861,Student 0861,2023,2023-7653,EE,8.34,Selected,1,Infosys,Self Placed,Verified,8.5
+862,Student 0862,2023,2023-7793,EE,8.13,Selected,1,Amazon,T&P Placed,Pending,8.2
+863,Student 0863,2023,2023-7818,EE,10.0,Selected,1,Capgemini,Self Placed,Verified,15.0
+864,Student 0864,2023,2023-7647,CSE,8.04,Shortlisted,0,,,Verified,0.0
+865,Student 0865,2023,2023-7798,ME,8.78,Rejected,0,,,Not Joined,0.0
+866,Student 0866,2023,2023-7897,CE,8.13,Interview,0,,,Not Verified,0.0
+867,Student 0867,2023,2023-7698,EE,8.23,Selected,1,Siemens,Self Placed,Pending,8.0
+868,Student 0868,2023,2023-7725,CSE,6.27,Selected,1,Deloitte,Off Campus Placed,Verified,28.2
+869,Student 0869,2023,2023-7871,CSE,7.45,Selected,1,Wipro,Self Placed,Verified,6.0
+870,Student 0870,2023,2023-7765,CE,7.18,Rejected,0,,,Not Verified,0.0
+871,Student 0871,2023,2023-7642,ME,8.97,Interview,0,,,Not Verified,0.0
+872,Student 0872,2023,2023-7896,CSE,7.42,Selected,1,NVIDIA,BP Placed,Pending,20.0
+873,Student 0873,2023,2023-7752,CSE,7.81,Selected,1,Databricks,Off Campus Placed,Verified,9.0
+874,Student 0874,2023,2023-7679,ME,9.45,Rejected,0,,,Verified,0.0
+875,Student 0875,2023,2023-7629,ECE,6.94,Shortlisted,0,,,Pending,0.0
+876,Student 0876,2023,2023-7699,ME,7.36,Interview,0,,,Not Verified,0.0
+877,Student 0877,2023,2023-7630,EE,5.69,Rejected,0,,,Not Joined,0.0
+878,Student 0878,2023,2023-7723,ECE,5.62,Selected,1,TCS,Off Campus Placed,Verified,7.0
+879,Student 0879,2023,2023-7734,ECE,8.56,Rejected,0,,,Pending,0.0
+880,Student 0880,2023,2023-7621,CE,7.27,Rejected,0,,,Pending,0.0
+881,Student 0881,2023,2023-7601,CSE,8.66,Rejected,0,,,Not Joined,0.0
+882,Student 0882,2023,2023-7810,CE,6.87,Selected,1,Microsoft,Self Placed,Verified,24.0
+883,Student 0883,2023,2023-7845,EE,7.6,Rejected,0,,,Not Verified,0.0
+884,Student 0884,2023,2023-7672,ME,8.01,Selected,1,NVIDIA,Off Campus Placed,Verified,9.0
+885,Student 0885,2023,2023-7712,ME,8.9,Selected,1,Siemens,T&P Placed,Pending,18.0
+886,Student 0886,2023,2023-7690,EE,7.64,Rejected,0,,,Not Joined,0.0
+887,Student 0887,2023,2023-7731,ECE,6.71,Selected,1,Wipro,Self Placed,Verified,28.0
+888,Student 0888,2023,2023-7682,EE,7.44,Selected,1,Deloitte,Self Placed,Verified,7.0
+889,Student 0889,2023,2023-7722,CSE,6.09,In Process,0,,,Not Verified,0.0
+890,Student 0890,2023,2023-7634,ME,9.39,In Process,0,,,Not Verified,0.0
+891,Student 0891,2023,2023-7809,EE,7.27,Selected,1,Capgemini,T&P Placed,Verified,12.0
+892,Student 0892,2023,2023-7749,CSE,6.4,Rejected,0,,,Verified,0.0
+893,Student 0893,2023,2023-7808,EE,7.41,Selected,1,Wipro,BP Placed,Verified,15.0
+894,Student 0894,2023,2023-7747,ME,8.77,Selected,1,Databricks,BP Placed,Verified,24.0
+895,Student 0895,2023,2023-7671,ME,7.38,Shortlisted,0,,,Not Verified,0.0
+896,Student 0896,2023,2023-7686,ME,9.12,Selected,1,Capgemini,Off Campus Placed,Verified,12.2
+897,Student 0897,2023,2023-7813,CE,6.94,Selected,1,NVIDIA,Self Placed,Verified,7.5
+898,Student 0898,2023,2023-7649,ECE,7.38,Selected,1,Accenture,Off Campus Placed,Pending,28.0
+899,Student 0899,2023,2023-7799,EE,8.83,Rejected,0,,,Pending,0.0
+900,Student 0900,2023,2023-7691,CE,8.44,In Process,0,,,Not Verified,0.0
+901,Student 0901,2023,2023-7663,CSE,7.45,Rejected,0,,,Pending,0.0
+902,Student 0902,2023,2023-7846,CSE,6.88,Selected,1,Deloitte,T&P Placed,Verified,18.2
+903,Student 0903,2023,2023-7796,CE,8.54,Rejected,0,,,Not Verified,0.0
+904,Student 0904,2023,2023-7622,CE,7.97,In Process,0,,,Not Verified,0.0
+905,Student 0905,2023,2023-7783,ECE,7.19,Rejected,0,,,Pending,0.0
+906,Student 0906,2023,2023-7687,ECE,5.44,Rejected,0,,,Not Verified,0.0
+907,Student 0907,2023,2023-7621,CE,8.19,Rejected,0,,,Not Verified,0.0
+908,Student 0908,2023,2023-7693,EE,10.0,Rejected,0,,,Pending,0.0
+909,Student 0909,2023,2023-7732,CE,6.75,Selected,1,Microsoft,T&P Placed,Not Verified,12.0
+910,Student 0910,2023,2023-7735,ME,6.04,In Process,0,,,Not Verified,0.0
+911,Student 0911,2023,2023-7898,EE,8.29,Selected,1,Infosys,BP Placed,Not Verified,12.0
+912,Student 0912,2023,2023-7633,CE,8.83,Selected,1,Microsoft,Off Campus Placed,Verified,8.0
+913,Student 0913,2023,2023-7641,CSE,8.39,Rejected,0,,,Verified,0.0
+914,Student 0914,2023,2023-7608,ME,8.6,Shortlisted,0,,,Not Verified,0.0
+915,Student 0915,2023,2023-7771,ME,7.8,Selected,1,Capgemini,Off Campus Placed,Verified,8.0
+916,Student 0916,2023,2023-7637,EE,7.96,Selected,1,Deloitte,BP Placed,Verified,7.0
+917,Student 0917,2023,2023-7771,ME,7.19,Rejected,0,,,Not Verified,0.0
+918,Student 0918,2023,2023-7849,ME,7.46,Rejected,0,,,Not Joined,0.0
+919,Student 0919,2023,2023-7881,CSE,9.16,Selected,1,Google,BP Placed,Not Joined,18.2
+920,Student 0920,2023,2023-7863,CE,6.23,Shortlisted,0,,,Pending,0.0
+921,Student 0921,2023,2023-7829,EE,9.83,Selected,1,Wipro,BP Placed,Verified,6.5
+922,Student 0922,2023,2023-7862,CE,7.34,Rejected,0,,,Not Verified,0.0
+923,Student 0923,2023,2023-7658,EE,6.4,Rejected,0,,,Not Verified,0.0
+924,Student 0924,2023,2023-7743,CSE,6.95,Selected,1,Databricks,Self Placed,Not Verified,12.2
+925,Student 0925,2023,2023-7897,ECE,8.58,Selected,1,TCS,T&P Placed,Verified,6.0
+926,Student 0926,2023,2023-7859,ME,8.63,Selected,1,Accenture,Off Campus Placed,Verified,8.0
+927,Student 0927,2023,2023-7623,ECE,7.66,Interview,0,,,Verified,0.0
+928,Student 0928,2023,2023-7854,CE,7.98,Interview,0,,,Pending,0.0
+929,Student 0929,2023,2023-7629,ME,6.31,In Process,0,,,Not Verified,0.0
+930,Student 0930,2023,2023-7600,EE,8.79,Selected,1,Accenture,Self Placed,Verified,9.0
+931,Student 0931,2023,2023-7675,CSE,8.24,Selected,1,Deloitte,T&P Placed,Verified,8.5
+932,Student 0932,2023,2023-7799,CE,8.04,Selected,1,NVIDIA,Self Placed,Verified,20.5
+933,Student 0933,2023,2023-7753,CE,8.09,Selected,1,Capgemini,BP Placed,Not Verified,6.0
+934,Student 0934,2023,2023-7673,CSE,7.3,In Process,0,,,Not Verified,0.0
+935,Student 0935,2023,2023-7846,EE,9.36,Selected,1,Infosys,T&P Placed,Verified,9.2
+936,Student 0936,2023,2023-7646,EE,5.36,Selected,1,Capgemini,Off Campus Placed,Not Joined,8.5
+937,Student 0937,2023,2023-7754,CSE,8.7,Selected,1,Deloitte,BP Placed,Not Joined,18.2
+938,Student 0938,2023,2023-7643,ECE,8.09,Selected,1,Siemens,Off Campus Placed,Pending,7.0
+939,Student 0939,2023,2023-7888,EE,7.97,Rejected,0,,,Not Verified,0.0
+940,Student 0940,2023,2023-7794,EE,7.86,Selected,1,Accenture,Self Placed,Verified,7.5
+941,Student 0941,2023,2023-7793,CSE,9.54,Rejected,0,,,Not Verified,0.0
+942,Student 0942,2023,2023-7772,CSE,7.64,Selected,1,Google,Off Campus Placed,Verified,20.2
+943,Student 0943,2023,2023-7657,EE,9.23,In Process,0,,,Not Verified,0.0
+944,Student 0944,2023,2023-7762,CSE,8.7,Selected,1,Siemens,T&P Placed,Verified,10.0
+945,Student 0945,2023,2023-7821,EE,7.79,Selected,1,Amazon,BP Placed,Verified,20.2
+946,Student 0946,2023,2023-7864,ECE,6.41,Interview,0,,,Not Joined,0.0
+947,Student 0947,2023,2023-7660,CSE,7.5,Selected,1,Databricks,Off Campus Placed,Pending,20.0
+948,Student 0948,2023,2023-7742,ME,6.85,In Process,0,,,Pending,0.0
+949,Student 0949,2023,2023-7603,EE,8.56,Selected,1,Deloitte,BP Placed,Verified,6.0
+950,Student 0950,2023,2023-7705,ECE,8.42,Rejected,0,,,Not Verified,0.0
+951,Student 0951,2023,2023-7796,CSE,9.38,Shortlisted,0,,,Not Verified,0.0
+952,Student 0952,2023,2023-7858,CE,10.0,In Process,0,,,Not Verified,0.0
+953,Student 0953,2023,2023-7880,EE,7.42,Rejected,0,,,Pending,0.0
+954,Student 0954,2023,2023-7728,CSE,7.47,Selected,1,Databricks,T&P Placed,Pending,6.0
+955,Student 0955,2023,2023-7711,ME,9.54,Selected,1,Wipro,Self Placed,Verified,7.0
+956,Student 0956,2023,2023-7720,CE,7.39,Selected,1,Microsoft,Self Placed,Pending,6.5
+957,Student 0957,2023,2023-7880,CSE,8.45,Rejected,0,,,Not Verified,0.0
+958,Student 0958,2023,2023-7627,EE,6.05,Interview,0,,,Verified,0.0
+959,Student 0959,2023,2023-7646,EE,7.92,Rejected,0,,,Not Verified,0.0
+960,Student 0960,2023,2023-7756,CSE,9.1,Selected,1,NVIDIA,BP Placed,Verified,9.0
+961,Student 0961,2023,2023-7879,ECE,7.2,Rejected,0,,,Verified,0.0
+962,Student 0962,2023,2023-7876,CE,6.86,Interview,0,,,Not Verified,0.0
+963,Student 0963,2023,2023-7860,ME,7.03,Selected,1,Microsoft,Off Campus Placed,Verified,9.0
+964,Student 0964,2023,2023-7860,ME,7.93,Selected,1,Capgemini,Self Placed,Verified,9.0
+965,Student 0965,2023,2023-7895,ME,8.69,Rejected,0,,,Pending,0.0
+966,Student 0966,2023,2023-7758,CSE,5.58,Rejected,0,,,Not Verified,0.0
+967,Student 0967,2023,2023-7765,EE,7.89,Selected,1,Accenture,T&P Placed,Verified,12.0
+968,Student 0968,2023,2023-7735,CSE,8.59,Rejected,0,,,Not Verified,0.0
+969,Student 0969,2023,2023-7897,EE,7.5,Rejected,0,,,Pending,0.0
+970,Student 0970,2023,2023-7694,CSE,6.91,Interview,0,,,Not Verified,0.0
+971,Student 0971,2023,2023-7817,ME,6.77,Selected,1,Wipro,Self Placed,Not Verified,8.5
+972,Student 0972,2023,2023-7897,EE,9.86,Selected,1,Wipro,T&P Placed,Verified,7.0
+973,Student 0973,2023,2023-7705,ME,7.78,Selected,1,Deloitte,BP Placed,Verified,12.5
+974,Student 0974,2023,2023-7798,ME,8.28,In Process,0,,,Pending,0.0
+975,Student 0975,2023,2023-7819,ECE,7.95,Rejected,0,,,Not Verified,0.0
+976,Student 0976,2023,2023-7741,ME,8.11,Selected,1,Siemens,T&P Placed,Not Verified,15.0
+977,Student 0977,2023,2023-7728,ME,9.22,Selected,1,Capgemini,BP Placed,Verified,20.0
+978,Student 0978,2023,2023-7767,CE,9.02,Interview,0,,,Not Verified,0.0
+979,Student 0979,2023,2023-7668,EE,8.57,In Process,0,,,Not Joined,0.0
+980,Student 0980,2023,2023-7704,ME,8.88,In Process,0,,,Not Verified,0.0
+981,Student 0981,2023,2023-7881,CE,8.89,Shortlisted,0,,,Not Verified,0.0
+982,Student 0982,2023,2023-7799,EE,7.73,Selected,1,Accenture,BP Placed,Verified,6.5
+983,Student 0983,2023,2023-7897,CE,6.68,In Process,0,,,Not Verified,0.0
+984,Student 0984,2023,2023-7700,CE,7.95,Rejected,0,,,Pending,0.0
+985,Student 0985,2023,2023-7774,ECE,9.44,Shortlisted,0,,,Not Joined,0.0
+986,Student 0986,2023,2023-7864,ECE,8.18,Selected,1,Infosys,T&P Placed,Pending,8.0
+987,Student 0987,2023,2023-7811,ME,7.85,Shortlisted,0,,,Pending,0.0
+988,Student 0988,2023,2023-7748,ME,9.55,Selected,1,NVIDIA,T&P Placed,Verified,12.5
+989,Student 0989,2023,2023-7653,CE,5.76,Selected,1,Capgemini,T&P Placed,Not Verified,7.2
+990,Student 0990,2023,2023-7772,ECE,8.13,Selected,1,Databricks,Self Placed,Verified,9.5
+991,Student 0991,2023,2023-7801,CE,7.58,Rejected,0,,,Pending,0.0
+992,Student 0992,2023,2023-7773,CE,9.84,Rejected,0,,,Not Verified,0.0
+993,Student 0993,2023,2023-7703,ECE,6.92,Rejected,0,,,Not Verified,0.0
+994,Student 0994,2023,2023-7802,ME,7.71,Interview,0,,,Pending,0.0
+995,Student 0995,2023,2023-7634,ME,10.0,Selected,1,Deloitte,BP Placed,Verified,10.0
+996,Student 0996,2023,2023-7790,CE,9.44,Rejected,0,,,Pending,0.0
+997,Student 0997,2023,2023-7731,CE,7.68,In Process,0,,,Not Verified,0.0
+998,Student 0998,2023,2023-7786,CSE,9.32,Rejected,0,,,Not Verified,0.0
+999,Student 0999,2023,2023-7700,CSE,8.86,Rejected,0,,,Not Verified,0.0
+1000,Student 1000,2023,2023-7796,ME,7.23,In Process,0,,,Not Verified,0.0
+1001,Student 1001,2023,2023-7678,CSE,7.5,Interview,0,,,Not Verified,0.0
+1002,Student 1002,2023,2023-7646,CE,6.79,Selected,1,Deloitte,Off Campus Placed,Verified,9.0
+1003,Student 1003,2023,2023-7650,ME,6.79,Selected,1,Amazon,Off Campus Placed,Verified,10.0
+1004,Student 1004,2023,2023-7667,CSE,7.77,In Process,0,,,Pending,0.0
+1005,Student 1005,2023,2023-7841,CSE,9.18,Selected,1,Amazon,BP Placed,Not Verified,6.0
+1006,Student 1006,2023,2023-7836,EE,8.15,Selected,1,Amazon,Off Campus Placed,Not Verified,8.2
+1007,Student 1007,2023,2023-7672,CE,7.15,Rejected,0,,,Not Verified,0.0
+1008,Student 1008,2023,2023-7737,ME,8.53,Selected,1,Databricks,BP Placed,Verified,10.0
+1009,Student 1009,2023,2023-7880,ECE,7.76,Selected,1,Amazon,Off Campus Placed,Verified,8.2
+1010,Student 1010,2023,2023-7883,CE,7.89,Selected,1,Amazon,T&P Placed,Verified,15.0
+1011,Student 1011,2023,2023-7680,CE,6.43,Selected,1,Siemens,Self Placed,Pending,24.0
+1012,Student 1012,2023,2023-7833,ECE,8.46,Selected,1,Siemens,BP Placed,Not Joined,9.0
+1013,Student 1013,2023,2023-7831,ECE,6.6,Interview,0,,,Verified,0.0
+1014,Student 1014,2023,2023-7668,ME,5.68,Shortlisted,0,,,Not Verified,0.0
+1015,Student 1015,2023,2023-7853,ECE,6.66,Selected,1,Amazon,BP Placed,Verified,12.0
+1016,Student 1016,2023,2023-7748,EE,7.51,Rejected,0,,,Pending,0.0
+1017,Student 1017,2023,2023-7782,EE,7.69,In Process,0,,,Pending,0.0
+1018,Student 1018,2023,2023-7812,CE,7.28,Shortlisted,0,,,Not Verified,0.0
+1019,Student 1019,2023,2023-7818,ME,7.62,Selected,1,Accenture,Off Campus Placed,Verified,8.0
+1020,Student 1020,2023,2023-7843,EE,8.87,In Process,0,,,Not Verified,0.0
+1021,Student 1021,2023,2023-7632,EE,7.31,In Process,0,,,Pending,0.0
+1022,Student 1022,2023,2023-7789,CSE,8.07,In Process,0,,,Verified,0.0
+1023,Student 1023,2023,2023-7795,ME,6.88,Interview,0,,,Not Joined,0.0
+1024,Student 1024,2023,2023-7679,CSE,7.69,Selected,1,Siemens,BP Placed,Verified,15.2
+1025,Student 1025,2023,2023-7717,CSE,6.78,Shortlisted,0,,,Pending,0.0
+1026,Student 1026,2023,2023-7862,ME,8.54,Selected,1,Google,BP Placed,Verified,10.0
+1027,Student 1027,2023,2023-7682,ECE,7.46,Interview,0,,,Not Verified,0.0
+1028,Student 1028,2023,2023-7840,CSE,8.2,In Process,0,,,Not Verified,0.0
+1029,Student 1029,2023,2023-7714,ME,7.53,Selected,1,Amazon,T&P Placed,Not Verified,28.5
+1030,Student 1030,2023,2023-7604,CSE,8.75,Rejected,0,,,Pending,0.0
+1031,Student 1031,2023,2023-7754,CE,7.48,Interview,0,,,Not Verified,0.0
+1032,Student 1032,2023,2023-7708,EE,7.31,Selected,1,Infosys,Self Placed,Not Joined,10.0
+1033,Student 1033,2023,2023-7625,CSE,5.06,Rejected,0,,,Pending,0.0
+1034,Student 1034,2023,2023-7675,ME,8.99,In Process,0,,,Pending,0.0
+1035,Student 1035,2023,2023-7610,EE,9.31,Rejected,0,,,Not Verified,0.0
+1036,Student 1036,2023,2023-7704,CSE,7.95,Selected,1,Capgemini,T&P Placed,Verified,7.0
+1037,Student 1037,2023,2023-7789,EE,5.76,Interview,0,,,Pending,0.0
+1038,Student 1038,2023,2023-7748,ME,6.37,In Process,0,,,Not Verified,0.0
+1039,Student 1039,2023,2023-7869,CE,7.51,Shortlisted,0,,,Pending,0.0
+1040,Student 1040,2023,2023-7673,EE,7.51,In Process,0,,,Not Verified,0.0
+1041,Student 1041,2024,2024-7661,ECE,7.23,Selected,1,Infosys,BP Placed,Verified,6.0
+1042,Student 1042,2024,2024-7832,EE,7.17,Selected,1,Wipro,Off Campus Placed,Verified,7.2
+1043,Student 1043,2024,2024-7779,EE,8.05,Rejected,0,,,Not Verified,0.0
+1044,Student 1044,2024,2024-7893,ECE,9.19,Rejected,0,,,Not Verified,0.0
+1045,Student 1045,2024,2024-7619,CSE,7.91,Interview,0,,,Not Verified,0.0
+1046,Student 1046,2024,2024-7705,CE,7.7,Rejected,0,,,Pending,0.0
+1047,Student 1047,2024,2024-7766,EE,5.72,Selected,1,Amazon,T&P Placed,Pending,8.0
+1048,Student 1048,2024,2024-7666,ME,7.65,Selected,1,NVIDIA,Off Campus Placed,Pending,7.0
+1049,Student 1049,2024,2024-7854,ME,8.6,Interview,0,,,Not Verified,0.0
+1050,Student 1050,2024,2024-7602,EE,8.68,In Process,0,,,Not Verified,0.0
+1051,Student 1051,2024,2024-7808,ME,9.38,Shortlisted,0,,,Verified,0.0
+1052,Student 1052,2024,2024-7741,CE,8.68,Rejected,0,,,Not Verified,0.0
+1053,Student 1053,2024,2024-7642,ME,7.37,Selected,1,Infosys,T&P Placed,Pending,9.0
+1054,Student 1054,2024,2024-7884,ME,8.54,Shortlisted,0,,,Verified,0.0
+1055,Student 1055,2024,2024-7674,EE,8.68,Interview,0,,,Not Verified,0.0
+1056,Student 1056,2024,2024-7785,CSE,8.76,Selected,1,Google,BP Placed,Verified,7.0
+1057,Student 1057,2024,2024-7800,CSE,9.18,Shortlisted,0,,,Not Verified,0.0
+1058,Student 1058,2024,2024-7756,CE,7.32,Interview,0,,,Pending,0.0
+1059,Student 1059,2024,2024-7755,ECE,8.3,Rejected,0,,,Not Verified,0.0
+1060,Student 1060,2024,2024-7613,CSE,7.6,Selected,1,Wipro,T&P Placed,Verified,12.0
+1061,Student 1061,2024,2024-7698,EE,7.46,Rejected,0,,,Not Verified,0.0
+1062,Student 1062,2024,2024-7765,ME,7.79,In Process,0,,,Pending,0.0
+1063,Student 1063,2024,2024-7643,ME,6.37,Shortlisted,0,,,Not Joined,0.0
+1064,Student 1064,2024,2024-7667,ME,5.91,Shortlisted,0,,,Verified,0.0
+1065,Student 1065,2024,2024-7605,EE,5.86,Selected,1,Accenture,BP Placed,Not Verified,6.5
+1066,Student 1066,2024,2024-7655,CE,6.34,Shortlisted,0,,,Pending,0.0
+1067,Student 1067,2024,2024-7633,ECE,7.88,Selected,1,Google,BP Placed,Verified,24.2
+1068,Student 1068,2024,2024-7883,CE,8.46,Selected,1,Accenture,Off Campus Placed,Verified,20.5
+1069,Student 1069,2024,2024-7667,CE,7.67,In Process,0,,,Not Verified,0.0
+1070,Student 1070,2024,2024-7704,ME,8.65,Selected,1,TCS,Self Placed,Verified,7.5
+1071,Student 1071,2024,2024-7698,ECE,6.67,Selected,1,Infosys,Self Placed,Verified,7.0
+1072,Student 1072,2024,2024-7612,CE,6.61,Selected,1,Siemens,BP Placed,Verified,10.5
+1073,Student 1073,2024,2024-7836,CSE,8.52,Interview,0,,,Verified,0.0
+1074,Student 1074,2024,2024-7696,ME,9.12,Rejected,0,,,Pending,0.0
+1075,Student 1075,2024,2024-7862,CSE,8.55,Rejected,0,,,Not Verified,0.0
+1076,Student 1076,2024,2024-7776,EE,7.95,Rejected,0,,,Not Verified,0.0
+1077,Student 1077,2024,2024-7645,ECE,6.8,Rejected,0,,,Pending,0.0
+1078,Student 1078,2024,2024-7833,CE,5.84,Selected,1,Amazon,T&P Placed,Verified,8.0
+1079,Student 1079,2024,2024-7622,ME,8.14,Rejected,0,,,Not Verified,0.0
+1080,Student 1080,2024,2024-7842,ME,5.52,In Process,0,,,Pending,0.0
+1081,Student 1081,2024,2024-7631,EE,8.57,Selected,1,Wipro,Self Placed,Pending,18.5
+1082,Student 1082,2024,2024-7825,CSE,5.66,Selected,1,Deloitte,BP Placed,Verified,21.0
+1083,Student 1083,2024,2024-7884,EE,8.78,Selected,1,Amazon,T&P Placed,Not Joined,10.0
+1084,Student 1084,2024,2024-7724,CE,8.22,In Process,0,,,Not Verified,0.0
+1085,Student 1085,2024,2024-7896,ME,9.16,Selected,1,Databricks,Self Placed,Verified,7.5
+1086,Student 1086,2024,2024-7756,ME,7.12,Shortlisted,0,,,Not Verified,0.0
+1087,Student 1087,2024,2024-7678,EE,8.64,Rejected,0,,,Not Verified,0.0
+1088,Student 1088,2024,2024-7664,ME,7.19,Interview,0,,,Pending,0.0
+1089,Student 1089,2024,2024-7803,EE,7.02,Selected,1,Siemens,T&P Placed,Verified,6.0
+1090,Student 1090,2024,2024-7736,ME,9.62,Interview,0,,,Pending,0.0
+1091,Student 1091,2024,2024-7625,CSE,9.02,Rejected,0,,,Pending,0.0
+1092,Student 1092,2024,2024-7894,EE,8.48,Shortlisted,0,,,Pending,0.0
+1093,Student 1093,2024,2024-7786,CE,9.08,Selected,1,Siemens,Self Placed,Pending,7.0
+1094,Student 1094,2024,2024-7622,EE,7.54,Selected,1,Amazon,T&P Placed,Verified,18.0
+1095,Student 1095,2024,2024-7874,EE,7.44,Interview,0,,,Not Joined,0.0
+1096,Student 1096,2024,2024-7624,CE,8.9,Selected,1,TCS,Self Placed,Verified,10.5
+1097,Student 1097,2024,2024-7606,CSE,8.0,Selected,1,Accenture,Off Campus Placed,Pending,6.0
+1098,Student 1098,2024,2024-7778,ECE,9.58,Rejected,0,,,Not Verified,0.0
+1099,Student 1099,2024,2024-7659,ME,5.79,In Process,0,,,Not Joined,0.0
+1100,Student 1100,2024,2024-7774,CSE,9.59,Rejected,0,,,Pending,0.0
+1101,Student 1101,2024,2024-7836,CSE,7.06,Selected,1,TCS,T&P Placed,Verified,28.5
+1102,Student 1102,2024,2024-7745,ME,7.94,Selected,1,TCS,Off Campus Placed,Pending,19.0
+1103,Student 1103,2024,2024-7606,CE,7.79,Interview,0,,,Not Verified,0.0
+1104,Student 1104,2024,2024-7668,ECE,7.98,In Process,0,,,Not Verified,0.0
+1105,Student 1105,2024,2024-7630,CSE,7.27,In Process,0,,,Pending,0.0
+1106,Student 1106,2024,2024-7734,CSE,9.38,Rejected,0,,,Pending,0.0
+1107,Student 1107,2024,2024-7805,ECE,9.08,Rejected,0,,,Not Verified,0.0
+1108,Student 1108,2024,2024-7661,CE,6.52,Rejected,0,,,Pending,0.0
+1109,Student 1109,2024,2024-7653,ECE,9.77,In Process,0,,,Not Verified,0.0
+1110,Student 1110,2024,2024-7672,ME,6.9,Selected,1,TCS,BP Placed,Verified,24.0
+1111,Student 1111,2024,2024-7606,ME,6.96,Selected,1,Capgemini,BP Placed,Verified,20.5
+1112,Student 1112,2024,2024-7877,EE,6.89,Selected,1,Accenture,Off Campus Placed,Pending,7.2
+1113,Student 1113,2024,2024-7714,ME,8.81,Rejected,0,,,Not Joined,0.0
+1114,Student 1114,2024,2024-7603,CSE,7.8,Shortlisted,0,,,Not Verified,0.0
+1115,Student 1115,2024,2024-7695,EE,7.19,Selected,1,Amazon,BP Placed,Verified,15.5
+1116,Student 1116,2024,2024-7673,CSE,6.79,Rejected,0,,,Not Verified,0.0
+1117,Student 1117,2024,2024-7738,ECE,7.21,Selected,1,NVIDIA,Self Placed,Pending,15.0
+1118,Student 1118,2024,2024-7773,ME,6.97,Selected,1,Deloitte,Self Placed,Not Verified,24.5
+1119,Student 1119,2024,2024-7628,ECE,6.18,Rejected,0,,,Not Verified,0.0
+1120,Student 1120,2024,2024-7731,ME,8.19,Interview,0,,,Not Verified,0.0
+1121,Student 1121,2024,2024-7773,CE,7.83,Selected,1,Accenture,T&P Placed,Verified,24.0
+1122,Student 1122,2024,2024-7612,CSE,6.28,Rejected,0,,,Not Verified,0.0
+1123,Student 1123,2024,2024-7831,ECE,9.43,Shortlisted,0,,,Not Joined,0.0
+1124,Student 1124,2024,2024-7664,CSE,6.39,Selected,1,Siemens,T&P Placed,Verified,8.5
+1125,Student 1125,2024,2024-7611,CE,8.42,Rejected,0,,,Not Verified,0.0
+1126,Student 1126,2024,2024-7746,CE,9.42,Selected,1,Wipro,Off Campus Placed,Pending,6.0
+1127,Student 1127,2024,2024-7852,ECE,8.52,Shortlisted,0,,,Not Verified,0.0
+1128,Student 1128,2024,2024-7861,EE,9.94,Interview,0,,,Not Verified,0.0
+1129,Student 1129,2024,2024-7751,CE,7.18,Rejected,0,,,Not Verified,0.0
+1130,Student 1130,2024,2024-7781,ME,6.37,Shortlisted,0,,,Verified,0.0
+1131,Student 1131,2024,2024-7690,EE,7.13,Shortlisted,0,,,Not Verified,0.0
+1132,Student 1132,2024,2024-7801,EE,8.06,Selected,1,TCS,T&P Placed,Pending,7.5
+1133,Student 1133,2024,2024-7751,ECE,8.2,Selected,1,Capgemini,T&P Placed,Verified,20.5
+1134,Student 1134,2024,2024-7752,CSE,7.47,Selected,1,Accenture,BP Placed,Verified,8.0
+1135,Student 1135,2024,2024-7810,ECE,7.09,Shortlisted,0,,,Not Joined,0.0
+1136,Student 1136,2024,2024-7832,ECE,8.14,Selected,1,Accenture,BP Placed,Verified,10.2
+1137,Student 1137,2024,2024-7682,EE,7.12,Shortlisted,0,,,Pending,0.0
+1138,Student 1138,2024,2024-7783,CE,9.68,Selected,1,Accenture,Off Campus Placed,Verified,20.0
+1139,Student 1139,2024,2024-7738,EE,8.46,Interview,0,,,Not Verified,0.0
+1140,Student 1140,2024,2024-7759,CE,9.11,Selected,1,Google,BP Placed,Verified,9.0
+1141,Student 1141,2024,2024-7755,CE,8.06,Rejected,0,,,Not Verified,0.0
+1142,Student 1142,2024,2024-7862,ECE,8.17,In Process,0,,,Not Verified,0.0
+1143,Student 1143,2024,2024-7800,CSE,8.61,Rejected,0,,,Not Verified,0.0
+1144,Student 1144,2024,2024-7668,EE,7.47,Selected,1,Databricks,T&P Placed,Verified,9.5
+1145,Student 1145,2024,2024-7661,ME,9.11,Selected,1,Siemens,T&P Placed,Verified,24.5
+1146,Student 1146,2024,2024-7701,EE,9.81,In Process,0,,,Verified,0.0
+1147,Student 1147,2024,2024-7805,EE,9.29,Shortlisted,0,,,Not Verified,0.0
+1148,Student 1148,2024,2024-7881,CSE,6.33,Interview,0,,,Not Verified,0.0
+1149,Student 1149,2024,2024-7799,CE,8.37,Rejected,0,,,Pending,0.0
+1150,Student 1150,2024,2024-7606,ME,8.2,Selected,1,Amazon,T&P Placed,Verified,9.5
+1151,Student 1151,2024,2024-7798,CE,8.54,Shortlisted,0,,,Not Joined,0.0
+1152,Student 1152,2024,2024-7827,ME,9.22,Selected,1,Deloitte,BP Placed,Verified,15.0
+1153,Student 1153,2024,2024-7890,CE,7.09,Selected,1,Amazon,Off Campus Placed,Pending,8.0
+1154,Student 1154,2024,2024-7674,CE,7.62,Selected,1,TCS,Off Campus Placed,Not Verified,7.2
+1155,Student 1155,2024,2024-7686,CE,7.56,Rejected,0,,,Not Verified,0.0
+1156,Student 1156,2024,2024-7821,ECE,9.33,Selected,1,Microsoft,Off Campus Placed,Not Verified,12.0
+1157,Student 1157,2024,2024-7643,ECE,9.43,Interview,0,,,Not Verified,0.0
+1158,Student 1158,2024,2024-7717,EE,7.51,Selected,1,Deloitte,BP Placed,Verified,28.0
+1159,Student 1159,2024,2024-7667,CSE,7.15,Selected,1,Amazon,Self Placed,Not Verified,6.2
+1160,Student 1160,2024,2024-7816,EE,8.81,Interview,0,,,Not Verified,0.0
+1161,Student 1161,2024,2024-7827,EE,7.33,In Process,0,,,Not Joined,0.0
+1162,Student 1162,2024,2024-7709,CSE,7.89,Selected,1,Google,T&P Placed,Pending,8.0
+1163,Student 1163,2024,2024-7697,ECE,6.33,Selected,1,Capgemini,BP Placed,Pending,8.0
+1164,Student 1164,2024,2024-7609,EE,7.62,Interview,0,,,Pending,0.0
+1165,Student 1165,2024,2024-7647,EE,7.92,Rejected,0,,,Not Verified,0.0
+1166,Student 1166,2024,2024-7636,ME,9.08,Interview,0,,,Pending,0.0
+1167,Student 1167,2024,2024-7876,EE,8.86,Selected,1,Wipro,T&P Placed,Verified,24.5
+1168,Student 1168,2024,2024-7703,CSE,9.2,Rejected,0,,,Not Verified,0.0
+1169,Student 1169,2024,2024-7840,CE,6.82,Interview,0,,,Not Joined,0.0
+1170,Student 1170,2024,2024-7876,CE,8.79,Selected,1,Databricks,BP Placed,Verified,11.0
+1171,Student 1171,2024,2024-7754,ECE,8.64,In Process,0,,,Not Verified,0.0
+1172,Student 1172,2024,2024-7723,ECE,6.69,Selected,1,Microsoft,Off Campus Placed,Pending,8.0
+1173,Student 1173,2024,2024-7772,CSE,8.41,In Process,0,,,Not Verified,0.0
+1174,Student 1174,2024,2024-7626,ME,7.49,Selected,1,Deloitte,T&P Placed,Verified,6.2
+1175,Student 1175,2024,2024-7820,EE,6.75,Selected,1,Microsoft,Off Campus Placed,Pending,15.2
+1176,Student 1176,2024,2024-7684,CE,8.66,Rejected,0,,,Not Verified,0.0
+1177,Student 1177,2024,2024-7713,ME,7.8,Rejected,0,,,Not Verified,0.0
+1178,Student 1178,2024,2024-7731,ME,9.13,Rejected,0,,,Not Verified,0.0
+1179,Student 1179,2024,2024-7670,CSE,8.0,Selected,1,NVIDIA,Self Placed,Verified,10.5
+1180,Student 1180,2024,2024-7856,ECE,8.47,Rejected,0,,,Not Verified,0.0
+1181,Student 1181,2024,2024-7699,CSE,7.35,Shortlisted,0,,,Pending,0.0
+1182,Student 1182,2024,2024-7608,ECE,7.22,Selected,1,TCS,Self Placed,Verified,10.2
+1183,Student 1183,2024,2024-7703,ECE,8.15,Rejected,0,,,Pending,0.0
+1184,Student 1184,2024,2024-7619,ECE,8.47,Shortlisted,0,,,Not Verified,0.0
+1185,Student 1185,2024,2024-7791,CSE,8.56,Rejected,0,,,Not Verified,0.0
+1186,Student 1186,2024,2024-7631,CE,9.55,Shortlisted,0,,,Pending,0.0
+1187,Student 1187,2024,2024-7746,ME,7.41,Shortlisted,0,,,Not Joined,0.0
+1188,Student 1188,2024,2024-7887,ECE,7.33,Rejected,0,,,Not Verified,0.0
+1189,Student 1189,2024,2024-7694,EE,7.6,In Process,0,,,Not Verified,0.0
+1190,Student 1190,2024,2024-7688,CSE,8.37,Rejected,0,,,Not Verified,0.0
+1191,Student 1191,2024,2024-7634,EE,7.81,Selected,1,Accenture,Self Placed,Verified,7.5
+1192,Student 1192,2024,2024-7650,CE,7.82,Selected,1,Capgemini,BP Placed,Pending,18.5
+1193,Student 1193,2024,2024-7804,EE,8.23,In Process,0,,,Pending,0.0
+1194,Student 1194,2024,2024-7838,ME,7.03,Selected,1,Deloitte,T&P Placed,Not Verified,6.0
+1195,Student 1195,2024,2024-7643,CSE,7.01,Rejected,0,,,Not Verified,0.0
+1196,Student 1196,2024,2024-7895,ECE,8.09,Selected,1,Deloitte,BP Placed,Pending,12.5
+1197,Student 1197,2024,2024-7812,ME,8.59,Interview,0,,,Pending,0.0
+1198,Student 1198,2024,2024-7717,CE,7.44,Selected,1,Infosys,BP Placed,Verified,6.5
+1199,Student 1199,2024,2024-7768,CE,6.19,Interview,0,,,Verified,0.0
+1200,Student 1200,2024,2024-7617,CSE,7.04,Selected,1,Wipro,Self Placed,Verified,15.0
+1201,Student 1201,2024,2024-7692,CE,6.89,Shortlisted,0,,,Verified,0.0
+1202,Student 1202,2024,2024-7834,EE,7.62,Rejected,0,,,Not Verified,0.0
+1203,Student 1203,2024,2024-7783,CE,7.08,Rejected,0,,,Verified,0.0
+1204,Student 1204,2024,2024-7860,EE,9.82,Rejected,0,,,Verified,0.0
+1205,Student 1205,2024,2024-7835,ECE,8.95,Shortlisted,0,,,Not Verified,0.0
+1206,Student 1206,2024,2024-7861,CSE,8.16,In Process,0,,,Not Verified,0.0
+1207,Student 1207,2024,2024-7763,ME,8.41,Rejected,0,,,Pending,0.0
+1208,Student 1208,2024,2024-7609,ECE,9.35,Selected,1,Deloitte,BP Placed,Verified,9.0
+1209,Student 1209,2024,2024-7885,ECE,7.81,In Process,0,,,Pending,0.0
+1210,Student 1210,2024,2024-7878,ME,7.81,Selected,1,Deloitte,T&P Placed,Verified,28.2
+1211,Student 1211,2024,2024-7721,CE,6.5,Selected,1,Accenture,Off Campus Placed,Not Verified,28.5
+1212,Student 1212,2024,2024-7716,CE,6.95,Selected,1,Databricks,BP Placed,Pending,9.0
+1213,Student 1213,2024,2024-7826,ECE,8.63,Rejected,0,,,Not Verified,0.0
+1214,Student 1214,2024,2024-7813,ME,6.86,Selected,1,Google,BP Placed,Verified,8.2
+1215,Student 1215,2024,2024-7889,EE,6.53,Selected,1,Infosys,BP Placed,Pending,24.0
+1216,Student 1216,2024,2024-7813,CE,8.02,Selected,1,Infosys,Off Campus Placed,Not Verified,15.5
+1217,Student 1217,2024,2024-7688,EE,5.86,Rejected,0,,,Not Verified,0.0
+1218,Student 1218,2024,2024-7726,ECE,7.92,Selected,1,Wipro,BP Placed,Pending,9.0
+1219,Student 1219,2024,2024-7829,ECE,6.44,Selected,1,Databricks,Off Campus Placed,Not Verified,9.0
+1220,Student 1220,2024,2024-7815,ECE,8.03,Rejected,0,,,Verified,0.0
+1221,Student 1221,2024,2024-7712,ECE,8.95,Rejected,0,,,Not Verified,0.0
+1222,Student 1222,2024,2024-7669,ME,6.57,Selected,1,Google,Self Placed,Not Verified,18.0
+1223,Student 1223,2024,2024-7879,ME,8.12,Selected,1,Infosys,Self Placed,Verified,8.0
+1224,Student 1224,2024,2024-7838,CE,7.9,Interview,0,,,Verified,0.0
+1225,Student 1225,2024,2024-7738,CE,7.76,Rejected,0,,,Not Verified,0.0
+1226,Student 1226,2024,2024-7742,ECE,8.07,Selected,1,Databricks,Off Campus Placed,Verified,12.0
+1227,Student 1227,2024,2024-7606,EE,7.19,Rejected,0,,,Not Verified,0.0
+1228,Student 1228,2024,2024-7743,ECE,8.01,Selected,1,Google,Off Campus Placed,Verified,12.0
+1229,Student 1229,2024,2024-7738,CE,7.7,Selected,1,Deloitte,T&P Placed,Not Verified,15.0
+1230,Student 1230,2024,2024-7610,CE,6.71,Selected,1,Capgemini,T&P Placed,Not Verified,10.0
+1231,Student 1231,2024,2024-7702,EE,8.16,In Process,0,,,Not Verified,0.0
+1232,Student 1232,2024,2024-7733,CE,7.07,Interview,0,,,Not Verified,0.0
+1233,Student 1233,2024,2024-7756,ECE,6.66,Rejected,0,,,Not Verified,0.0
+1234,Student 1234,2024,2024-7885,CE,7.82,Selected,1,TCS,Self Placed,Not Verified,20.0
+1235,Student 1235,2024,2024-7672,CE,7.12,Rejected,0,,,Not Joined,0.0
+1236,Student 1236,2024,2024-7752,ECE,7.27,Selected,1,Wipro,Self Placed,Not Joined,28.2
+1237,Student 1237,2024,2024-7840,ECE,7.94,Rejected,0,,,Pending,0.0
+1238,Student 1238,2024,2024-7797,EE,8.15,Selected,1,Siemens,T&P Placed,Verified,10.0
+1239,Student 1239,2024,2024-7642,ECE,9.02,Selected,1,Accenture,BP Placed,Pending,15.0
+1240,Student 1240,2024,2024-7851,ECE,6.47,Shortlisted,0,,,Pending,0.0
+1241,Student 1241,2024,2024-7861,CE,5.72,Selected,1,Databricks,T&P Placed,Verified,24.2
+1242,Student 1242,2024,2024-7730,CSE,7.93,Rejected,0,,,Not Joined,0.0
+1243,Student 1243,2024,2024-7752,CE,8.0,Selected,1,Amazon,Self Placed,Not Verified,20.0
+1244,Student 1244,2024,2024-7638,ECE,7.69,Shortlisted,0,,,Verified,0.0
+1245,Student 1245,2024,2024-7608,ECE,9.86,In Process,0,,,Pending,0.0
+1246,Student 1246,2024,2024-7848,CSE,7.59,Selected,1,Databricks,BP Placed,Verified,24.2
+1247,Student 1247,2024,2024-7729,CSE,7.07,Shortlisted,0,,,Not Verified,0.0
+1248,Student 1248,2024,2024-7811,CE,8.33,Selected,1,Deloitte,Off Campus Placed,Not Joined,8.0
+1249,Student 1249,2024,2024-7677,ECE,10.0,Selected,1,Infosys,Off Campus Placed,Verified,12.5
+1250,Student 1250,2024,2024-7619,CE,7.88,In Process,0,,,Not Verified,0.0
+1251,Student 1251,2024,2024-7854,CE,8.68,Selected,1,Microsoft,T&P Placed,Verified,8.0
+1252,Student 1252,2024,2024-7846,ME,8.28,Selected,1,Wipro,Self Placed,Verified,6.2
+1253,Student 1253,2024,2024-7806,CE,7.04,Shortlisted,0,,,Not Joined,0.0
+1254,Student 1254,2024,2024-7804,EE,6.9,Selected,1,Wipro,Self Placed,Verified,10.0
+1255,Student 1255,2024,2024-7679,ME,8.69,In Process,0,,,Verified,0.0
+1256,Student 1256,2024,2024-7881,EE,6.8,Selected,1,Databricks,Off Campus Placed,Verified,15.2
+1257,Student 1257,2024,2024-7649,ME,7.65,Selected,1,Capgemini,Off Campus Placed,Pending,7.0
+1258,Student 1258,2024,2024-7661,ECE,8.55,Rejected,0,,,Pending,0.0
+1259,Student 1259,2024,2024-7609,CSE,8.11,Interview,0,,,Not Verified,0.0
+1260,Student 1260,2024,2024-7655,ECE,7.64,Selected,1,NVIDIA,T&P Placed,Pending,8.0
+1261,Student 1261,2024,2024-7741,ME,7.99,Interview,0,,,Not Verified,0.0
+1262,Student 1262,2024,2024-7709,CE,7.92,Rejected,0,,,Not Verified,0.0
+1263,Student 1263,2024,2024-7744,CSE,7.68,Rejected,0,,,Not Verified,0.0
+1264,Student 1264,2024,2024-7731,CSE,8.11,Rejected,0,,,Not Verified,0.0
+1265,Student 1265,2024,2024-7819,ME,7.09,In Process,0,,,Not Verified,0.0
+1266,Student 1266,2024,2024-7711,ECE,6.54,Selected,1,Deloitte,T&P Placed,Verified,20.0
+1267,Student 1267,2024,2024-7615,ME,6.8,Shortlisted,0,,,Not Verified,0.0
+1268,Student 1268,2024,2024-7718,CE,7.48,In Process,0,,,Not Verified,0.0
+1269,Student 1269,2024,2024-7767,ECE,7.13,Selected,1,Amazon,Self Placed,Pending,6.5
+1270,Student 1270,2024,2024-7835,CE,8.65,In Process,0,,,Not Verified,0.0
+1271,Student 1271,2024,2024-7648,ECE,6.4,Rejected,0,,,Not Verified,0.0
+1272,Student 1272,2024,2024-7704,EE,7.16,Selected,1,Capgemini,BP Placed,Verified,24.0
+1273,Student 1273,2024,2024-7808,ECE,7.01,Selected,1,TCS,T&P Placed,Pending,28.2
+1274,Student 1274,2024,2024-7857,ECE,5.82,Selected,1,NVIDIA,Off Campus Placed,Verified,9.2
+1275,Student 1275,2024,2024-7828,EE,8.36,Selected,1,Databricks,Self Placed,Verified,6.0
+1276,Student 1276,2024,2024-7758,CSE,8.76,Selected,1,Databricks,Self Placed,Verified,10.2
+1277,Student 1277,2024,2024-7733,CSE,9.21,Selected,1,Siemens,Self Placed,Verified,8.0
+1278,Student 1278,2024,2024-7774,ECE,7.42,In Process,0,,,Pending,0.0
+1279,Student 1279,2024,2024-7857,EE,7.7,Selected,1,Wipro,Off Campus Placed,Verified,8.2
+1280,Student 1280,2024,2024-7739,ECE,6.06,Rejected,0,,,Not Joined,0.0
+1281,Student 1281,2024,2024-7705,ECE,6.59,Rejected,0,,,Pending,0.0
+1282,Student 1282,2024,2024-7731,EE,8.73,Shortlisted,0,,,Pending,0.0
+1283,Student 1283,2024,2024-7711,CSE,6.86,In Process,0,,,Not Verified,0.0
+1284,Student 1284,2024,2024-7804,EE,8.6,Shortlisted,0,,,Not Joined,0.0
+1285,Student 1285,2024,2024-7826,CE,6.19,Shortlisted,0,,,Not Verified,0.0
+1286,Student 1286,2024,2024-7787,ME,7.35,Rejected,0,,,Not Verified,0.0
+1287,Student 1287,2024,2024-7703,EE,8.65,Rejected,0,,,Pending,0.0
+1288,Student 1288,2024,2024-7780,CSE,9.11,Rejected,0,,,Pending,0.0
+1289,Student 1289,2024,2024-7805,CE,9.32,In Process,0,,,Pending,0.0
+1290,Student 1290,2024,2024-7616,CSE,7.19,In Process,0,,,Pending,0.0
+1291,Student 1291,2024,2024-7623,CE,6.93,Rejected,0,,,Not Verified,0.0
+1292,Student 1292,2024,2024-7788,CE,7.74,Rejected,0,,,Pending,0.0
+1293,Student 1293,2024,2024-7675,EE,8.23,Selected,1,Deloitte,Self Placed,Verified,18.2
+1294,Student 1294,2024,2024-7639,CSE,8.04,In Process,0,,,Not Verified,0.0
+1295,Student 1295,2024,2024-7874,CSE,8.12,Rejected,0,,,Not Verified,0.0
+1296,Student 1296,2024,2024-7784,CE,9.16,Rejected,0,,,Pending,0.0
+1297,Student 1297,2024,2024-7689,EE,6.85,Selected,1,Infosys,Self Placed,Verified,12.0
+1298,Student 1298,2024,2024-7728,CSE,8.43,Selected,1,Amazon,T&P Placed,Verified,20.2
+1299,Student 1299,2024,2024-7664,EE,8.98,Selected,1,Infosys,Off Campus Placed,Verified,28.5
+1300,Student 1300,2024,2024-7726,CE,7.38,In Process,0,,,Not Verified,0.0
+1301,Student 1301,2024,2024-7605,ECE,9.62,Selected,1,Capgemini,Off Campus Placed,Verified,15.2
+1302,Student 1302,2024,2024-7824,ME,9.71,In Process,0,,,Not Verified,0.0
+1303,Student 1303,2024,2024-7745,CE,7.69,Interview,0,,,Not Verified,0.0
+1304,Student 1304,2024,2024-7626,CE,8.07,Selected,1,Deloitte,BP Placed,Not Joined,15.2
+1305,Student 1305,2024,2024-7724,ME,8.71,Rejected,0,,,Not Verified,0.0
+1306,Student 1306,2024,2024-7636,CE,7.18,Interview,0,,,Pending,0.0
+1307,Student 1307,2024,2024-7858,ME,8.04,Shortlisted,0,,,Pending,0.0
+1308,Student 1308,2024,2024-7869,ME,8.29,Selected,1,Deloitte,Self Placed,Pending,6.0
+1309,Student 1309,2024,2024-7692,CSE,7.64,Selected,1,Deloitte,T&P Placed,Verified,10.5
+1310,Student 1310,2024,2024-7720,EE,8.28,Selected,1,TCS,Off Campus Placed,Verified,15.2
+1311,Student 1311,2024,2024-7724,ECE,8.51,In Process,0,,,Not Joined,0.0
+1312,Student 1312,2024,2024-7750,CSE,7.03,Selected,1,Amazon,Self Placed,Verified,18.5
+1313,Student 1313,2024,2024-7855,EE,6.64,Selected,1,Wipro,BP Placed,Verified,28.5
+1314,Student 1314,2024,2024-7655,ME,9.14,In Process,0,,,Pending,0.0
+1315,Student 1315,2024,2024-7830,EE,7.59,Selected,1,Deloitte,Self Placed,Pending,9.2
+1316,Student 1316,2024,2024-7691,ECE,7.04,Rejected,0,,,Not Verified,0.0
+1317,Student 1317,2024,2024-7868,ECE,6.94,Rejected,0,,,Not Verified,0.0
+1318,Student 1318,2024,2024-7820,ME,8.42,Rejected,0,,,Not Verified,0.0
+1319,Student 1319,2024,2024-7857,ME,7.69,Selected,1,Amazon,Self Placed,Verified,6.5
+1320,Student 1320,2024,2024-7769,CSE,9.32,Selected,1,Databricks,T&P Placed,Verified,6.2
+1321,Student 1321,2024,2024-7699,EE,8.36,Rejected,0,,,Not Verified,0.0
+1322,Student 1322,2024,2024-7625,CSE,6.93,Selected,1,Wipro,T&P Placed,Not Verified,10.0
+1323,Student 1323,2024,2024-7608,EE,8.07,Selected,1,Capgemini,T&P Placed,Not Verified,6.0
+1324,Student 1324,2024,2024-7799,CE,7.65,Selected,1,Infosys,Off Campus Placed,Not Verified,8.0
+1325,Student 1325,2024,2024-7887,ECE,8.24,Shortlisted,0,,,Not Verified,0.0
+1326,Student 1326,2024,2024-7882,CSE,7.83,Selected,1,Siemens,Self Placed,Verified,29.0
+1327,Student 1327,2024,2024-7754,CE,7.4,Selected,1,Infosys,Self Placed,Pending,7.2
+1328,Student 1328,2024,2024-7844,CSE,9.39,Rejected,0,,,Verified,0.0
+1329,Student 1329,2024,2024-7622,ECE,7.18,Shortlisted,0,,,Pending,0.0
+1330,Student 1330,2024,2024-7679,EE,7.1,Selected,1,Capgemini,BP Placed,Verified,20.2
+1331,Student 1331,2024,2024-7819,EE,7.19,In Process,0,,,Not Verified,0.0
+1332,Student 1332,2024,2024-7634,CSE,6.47,In Process,0,,,Not Joined,0.0
+1333,Student 1333,2024,2024-7664,CE,7.8,Rejected,0,,,Not Verified,0.0
+1334,Student 1334,2024,2024-7868,EE,9.19,Selected,1,Google,Self Placed,Verified,9.0
+1335,Student 1335,2024,2024-7872,CSE,7.43,Rejected,0,,,Pending,0.0
+1336,Student 1336,2024,2024-7721,CSE,9.42,Selected,1,Capgemini,T&P Placed,Verified,8.0
+1337,Student 1337,2024,2024-7818,EE,7.96,Rejected,0,,,Not Verified,0.0
+1338,Student 1338,2024,2024-7725,CE,6.23,Selected,1,Deloitte,BP Placed,Verified,9.0
+1339,Student 1339,2024,2024-7820,ME,8.05,In Process,0,,,Not Verified,0.0
+1340,Student 1340,2024,2024-7789,CE,8.34,Selected,1,Databricks,Self Placed,Verified,11.0
+1341,Student 1341,2024,2024-7625,ME,7.62,Rejected,0,,,Not Verified,0.0
+1342,Student 1342,2024,2024-7747,CSE,8.81,Rejected,0,,,Not Verified,0.0
+1343,Student 1343,2024,2024-7646,EE,8.58,Selected,1,Capgemini,Self Placed,Verified,18.0
+1344,Student 1344,2024,2024-7600,ME,7.06,Interview,0,,,Pending,0.0
+1345,Student 1345,2024,2024-7772,ECE,7.35,Selected,1,NVIDIA,Self Placed,Verified,20.0
+1346,Student 1346,2024,2024-7839,CE,7.77,In Process,0,,,Pending,0.0
+1347,Student 1347,2024,2024-7826,CSE,7.3,Selected,1,Infosys,Self Placed,Pending,7.0
+1348,Student 1348,2024,2024-7776,ECE,7.39,Selected,1,Wipro,T&P Placed,Not Joined,20.2
+1349,Student 1349,2024,2024-7641,ME,7.67,Selected,1,Deloitte,Self Placed,Pending,9.5
+1350,Student 1350,2024,2024-7841,EE,7.55,Selected,1,TCS,T&P Placed,Pending,29.0
+1351,Student 1351,2024,2024-7642,ME,10.0,Shortlisted,0,,,Not Joined,0.0
+1352,Student 1352,2024,2024-7659,ME,7.82,Selected,1,Capgemini,Self Placed,Verified,12.0
+1353,Student 1353,2024,2024-7625,ECE,7.5,Rejected,0,,,Not Verified,0.0
+1354,Student 1354,2024,2024-7622,CSE,7.79,Selected,1,Capgemini,BP Placed,Pending,12.2
+1355,Student 1355,2024,2024-7666,CSE,7.83,Selected,1,Wipro,Off Campus Placed,Pending,10.0
+1356,Student 1356,2024,2024-7827,CSE,7.45,Selected,1,Amazon,Off Campus Placed,Verified,6.0
+1357,Student 1357,2024,2024-7755,ME,9.17,Selected,1,Microsoft,BP Placed,Not Verified,25.0
+1358,Student 1358,2024,2024-7825,CE,8.9,Interview,0,,,Pending,0.0
+1359,Student 1359,2024,2024-7886,ECE,7.34,Selected,1,Microsoft,BP Placed,Verified,15.0
+1360,Student 1360,2024,2024-7782,ECE,8.1,Interview,0,,,Not Verified,0.0
+1361,Student 1361,2024,2024-7865,ME,7.85,Interview,0,,,Pending,0.0
+1362,Student 1362,2024,2024-7652,ECE,8.14,Rejected,0,,,Not Verified,0.0
+1363,Student 1363,2024,2024-7691,CE,8.37,In Process,0,,,Verified,0.0
+1364,Student 1364,2024,2024-7786,ME,7.46,Shortlisted,0,,,Not Verified,0.0
+1365,Student 1365,2024,2024-7622,CSE,5.0,In Process,0,,,Not Verified,0.0
+1366,Student 1366,2024,2024-7897,CE,8.91,Rejected,0,,,Not Joined,0.0
+1367,Student 1367,2024,2024-7830,EE,6.91,Shortlisted,0,,,Verified,0.0
+1368,Student 1368,2024,2024-7766,CSE,8.68,Selected,1,TCS,Off Campus Placed,Verified,9.0
+1369,Student 1369,2024,2024-7838,CE,5.77,Selected,1,Infosys,T&P Placed,Not Joined,28.2
+1370,Student 1370,2024,2024-7731,EE,8.49,In Process,0,,,Not Verified,0.0
+1371,Student 1371,2024,2024-7679,ECE,7.8,In Process,0,,,Pending,0.0
+1372,Student 1372,2024,2024-7843,ME,7.2,Interview,0,,,Not Verified,0.0
+1373,Student 1373,2024,2024-7611,ECE,8.7,Selected,1,Google,BP Placed,Pending,6.0
+1374,Student 1374,2024,2024-7866,ECE,8.11,Rejected,0,,,Pending,0.0
+1375,Student 1375,2024,2024-7735,EE,7.23,Rejected,0,,,Not Verified,0.0
+1376,Student 1376,2024,2024-7844,CE,8.48,Interview,0,,,Not Verified,0.0
+1377,Student 1377,2024,2024-7718,CSE,7.79,Selected,1,Accenture,BP Placed,Not Verified,18.0
+1378,Student 1378,2024,2024-7636,CSE,5.39,Rejected,0,,,Not Joined,0.0
+1379,Student 1379,2024,2024-7773,EE,8.91,Rejected,0,,,Not Verified,0.0
+1380,Student 1380,2024,2024-7729,EE,7.4,Rejected,0,,,Not Verified,0.0
+1381,Student 1381,2024,2024-7706,EE,9.12,Selected,1,Deloitte,Off Campus Placed,Verified,6.0
+1382,Student 1382,2024,2024-7708,ME,7.13,Interview,0,,,Not Joined,0.0
+1383,Student 1383,2024,2024-7745,CSE,7.21,Rejected,0,,,Verified,0.0
+1384,Student 1384,2024,2024-7820,EE,7.42,In Process,0,,,Verified,0.0
+1385,Student 1385,2024,2024-7712,ME,6.91,In Process,0,,,Not Verified,0.0
+1386,Student 1386,2024,2024-7897,ME,6.21,Rejected,0,,,Not Verified,0.0
+1387,Student 1387,2024,2024-7661,CE,6.36,Rejected,0,,,Not Joined,0.0
+1388,Student 1388,2024,2024-7616,ME,6.78,Selected,1,Amazon,Off Campus Placed,Verified,7.5
+1389,Student 1389,2024,2024-7635,EE,10.0,In Process,0,,,Pending,0.0
+1390,Student 1390,2024,2024-7781,EE,6.82,Shortlisted,0,,,Not Verified,0.0
+1391,Student 1391,2024,2024-7807,CE,9.98,Shortlisted,0,,,Pending,0.0
+1392,Student 1392,2024,2024-7645,ECE,7.43,Interview,0,,,Pending,0.0
+1393,Student 1393,2024,2024-7626,ECE,6.25,In Process,0,,,Pending,0.0
+1394,Student 1394,2024,2024-7857,CE,7.9,Selected,1,Amazon,BP Placed,Verified,7.0
+1395,Student 1395,2024,2024-7690,EE,8.57,Selected,1,Amazon,T&P Placed,Not Verified,24.5
+1396,Student 1396,2024,2024-7662,ME,9.37,Rejected,0,,,Not Verified,0.0
+1397,Student 1397,2024,2024-7866,ECE,7.2,In Process,0,,,Pending,0.0
+1398,Student 1398,2024,2024-7690,ME,7.88,Interview,0,,,Not Verified,0.0
+1399,Student 1399,2024,2024-7803,EE,7.66,Rejected,0,,,Not Verified,0.0
+1400,Student 1400,2024,2024-7685,CE,8.85,Selected,1,Deloitte,Off Campus Placed,Pending,6.0
+1401,Student 1401,2024,2024-7888,CE,7.15,In Process,0,,,Pending,0.0
+1402,Student 1402,2024,2024-7736,ME,5.48,Interview,0,,,Pending,0.0
+1403,Student 1403,2024,2024-7623,ME,5.44,Selected,1,Wipro,Off Campus Placed,Not Verified,7.0
+1404,Student 1404,2024,2024-7657,ECE,6.89,In Process,0,,,Pending,0.0
+1405,Student 1405,2024,2024-7617,ECE,7.47,In Process,0,,,Not Verified,0.0
+1406,Student 1406,2024,2024-7618,ME,7.63,Rejected,0,,,Not Verified,0.0
+1407,Student 1407,2024,2024-7774,CSE,8.44,Shortlisted,0,,,Not Verified,0.0
+1408,Student 1408,2024,2024-7734,ECE,6.21,Rejected,0,,,Not Verified,0.0
+1409,Student 1409,2024,2024-7675,ECE,9.17,Selected,1,Siemens,Off Campus Placed,Pending,6.2
+1410,Student 1410,2024,2024-7659,EE,8.74,Shortlisted,0,,,Not Verified,0.0
+1411,Student 1411,2024,2024-7702,CE,7.62,Selected,1,Siemens,Self Placed,Not Verified,12.0
+1412,Student 1412,2024,2024-7662,EE,6.05,Interview,0,,,Pending,0.0
+1413,Student 1413,2024,2024-7755,EE,7.35,In Process,0,,,Pending,0.0
+1414,Student 1414,2024,2024-7801,CSE,7.46,Interview,0,,,Pending,0.0
+1415,Student 1415,2024,2024-7889,ECE,9.5,Interview,0,,,Not Verified,0.0
+1416,Student 1416,2024,2024-7857,ME,9.58,Rejected,0,,,Not Joined,0.0
+1417,Student 1417,2024,2024-7690,CSE,8.9,Interview,0,,,Not Verified,0.0
+1418,Student 1418,2024,2024-7765,EE,6.97,Rejected,0,,,Not Verified,0.0
+1419,Student 1419,2024,2024-7680,ME,7.17,Shortlisted,0,,,Pending,0.0
+1420,Student 1420,2024,2024-7752,ME,6.79,Selected,1,Accenture,Self Placed,Verified,8.2
+1421,Student 1421,2024,2024-7892,CSE,8.88,Rejected,0,,,Not Joined,0.0
+1422,Student 1422,2024,2024-7627,CSE,8.78,Selected,1,Siemens,Self Placed,Verified,18.0
+1423,Student 1423,2024,2024-7622,ECE,8.58,Rejected,0,,,Pending,0.0
+1424,Student 1424,2024,2024-7681,ECE,8.22,In Process,0,,,Pending,0.0
+1425,Student 1425,2024,2024-7653,ECE,8.45,In Process,0,,,Pending,0.0
+1426,Student 1426,2024,2024-7857,EE,6.81,Selected,1,NVIDIA,Self Placed,Verified,7.0
+1427,Student 1427,2024,2024-7851,ECE,8.16,Rejected,0,,,Not Verified,0.0
+1428,Student 1428,2024,2024-7859,CSE,7.8,Shortlisted,0,,,Not Verified,0.0
+1429,Student 1429,2024,2024-7898,ME,9.43,In Process,0,,,Not Verified,0.0
+1430,Student 1430,2024,2024-7670,CSE,7.54,Rejected,0,,,Not Verified,0.0
+1431,Student 1431,2024,2024-7721,CSE,6.75,Rejected,0,,,Not Joined,0.0
+1432,Student 1432,2024,2024-7773,CSE,8.15,Interview,0,,,Not Joined,0.0
+1433,Student 1433,2024,2024-7600,CSE,7.45,Rejected,0,,,Verified,0.0
+1434,Student 1434,2024,2024-7606,ME,8.5,Shortlisted,0,,,Not Verified,0.0
+1435,Student 1435,2024,2024-7759,ME,8.21,Selected,1,Capgemini,BP Placed,Verified,19.0
+1436,Student 1436,2024,2024-7855,CSE,6.15,Selected,1,Google,BP Placed,Not Verified,9.0
+1437,Student 1437,2024,2024-7613,ECE,6.96,Selected,1,NVIDIA,BP Placed,Verified,9.0
+1438,Student 1438,2024,2024-7815,CE,8.68,Selected,1,Databricks,Self Placed,Pending,15.0
+1439,Student 1439,2024,2024-7816,ME,5.86,Rejected,0,,,Verified,0.0
+1440,Student 1440,2024,2024-7802,CSE,8.15,Shortlisted,0,,,Not Verified,0.0
+1441,Student 1441,2024,2024-7850,CSE,6.9,Rejected,0,,,Not Verified,0.0
+1442,Student 1442,2024,2024-7765,ECE,7.73,Selected,1,Accenture,T&P Placed,Verified,8.5
+1443,Student 1443,2024,2024-7822,EE,8.15,Rejected,0,,,Not Verified,0.0
+1444,Student 1444,2024,2024-7643,ME,7.72,In Process,0,,,Verified,0.0
+1445,Student 1445,2024,2024-7640,ECE,7.35,Shortlisted,0,,,Pending,0.0
+1446,Student 1446,2024,2024-7863,EE,5.87,Selected,1,Accenture,Off Campus Placed,Verified,7.0
+1447,Student 1447,2024,2024-7695,ECE,8.2,Selected,1,Wipro,Self Placed,Not Verified,12.0
+1448,Student 1448,2024,2024-7744,CSE,8.59,Interview,0,,,Pending,0.0
+1449,Student 1449,2024,2024-7819,CE,8.26,Selected,1,Wipro,Self Placed,Verified,12.0
+1450,Student 1450,2024,2024-7805,CSE,7.93,Selected,1,Siemens,Self Placed,Pending,10.0
+1451,Student 1451,2024,2024-7741,ECE,7.55,Rejected,0,,,Not Verified,0.0
+1452,Student 1452,2024,2024-7786,CSE,6.08,Rejected,0,,,Not Verified,0.0
+1453,Student 1453,2024,2024-7779,EE,7.5,Interview,0,,,Not Verified,0.0
+1454,Student 1454,2024,2024-7674,ECE,7.45,Selected,1,NVIDIA,T&P Placed,Verified,12.5
+1455,Student 1455,2024,2024-7832,ME,8.52,In Process,0,,,Not Verified,0.0
+1456,Student 1456,2024,2024-7637,ME,8.07,In Process,0,,,Not Verified,0.0
+1457,Student 1457,2024,2024-7655,ECE,9.59,Rejected,0,,,Not Verified,0.0
+1458,Student 1458,2024,2024-7754,ECE,8.64,Shortlisted,0,,,Verified,0.0
+1459,Student 1459,2024,2024-7703,CSE,9.41,Selected,1,Capgemini,Self Placed,Verified,20.0
+1460,Student 1460,2024,2024-7686,CSE,5.11,Selected,1,Wipro,Self Placed,Verified,12.2
+1461,Student 1461,2024,2024-7881,ME,9.49,Shortlisted,0,,,Verified,0.0
+1462,Student 1462,2024,2024-7622,ECE,7.75,Rejected,0,,,Not Verified,0.0
+1463,Student 1463,2024,2024-7751,ECE,7.65,Rejected,0,,,Not Verified,0.0
+1464,Student 1464,2024,2024-7889,ECE,8.7,Selected,1,Siemens,BP Placed,Verified,7.2
+1465,Student 1465,2024,2024-7719,CSE,7.41,In Process,0,,,Not Verified,0.0
+1466,Student 1466,2024,2024-7715,CSE,7.78,Selected,1,Capgemini,BP Placed,Verified,9.5
+1467,Student 1467,2024,2024-7857,CSE,7.9,Selected,1,Siemens,BP Placed,Verified,10.5
+1468,Student 1468,2024,2024-7826,CE,7.82,Selected,1,Google,BP Placed,Verified,10.5
+1469,Student 1469,2024,2024-7803,CSE,7.41,In Process,0,,,Not Joined,0.0
+1470,Student 1470,2024,2024-7700,CSE,6.42,Rejected,0,,,Not Joined,0.0
+1471,Student 1471,2024,2024-7694,CSE,6.07,Selected,1,Amazon,BP Placed,Verified,7.2
+1472,Student 1472,2024,2024-7728,CE,7.95,Selected,1,NVIDIA,Self Placed,Verified,8.0
+1473,Student 1473,2024,2024-7862,ME,7.07,Selected,1,TCS,T&P Placed,Verified,8.2
+1474,Student 1474,2024,2024-7694,CE,8.17,Rejected,0,,,Not Verified,0.0
+1475,Student 1475,2024,2024-7684,EE,6.8,Shortlisted,0,,,Not Verified,0.0
+1476,Student 1476,2024,2024-7851,CSE,8.03,Selected,1,Infosys,BP Placed,Verified,8.2
+1477,Student 1477,2024,2024-7669,ECE,7.35,Selected,1,NVIDIA,Self Placed,Verified,10.5
+1478,Student 1478,2024,2024-7873,EE,8.28,Rejected,0,,,Not Joined,0.0
+1479,Student 1479,2024,2024-7667,CE,7.36,Shortlisted,0,,,Pending,0.0
+1480,Student 1480,2024,2024-7644,CE,9.11,In Process,0,,,Verified,0.0
+1481,Student 1481,2024,2024-7632,CE,6.62,Selected,1,Siemens,Off Campus Placed,Verified,28.5
+1482,Student 1482,2024,2024-7627,ME,7.11,Selected,1,TCS,Self Placed,Not Joined,7.0
+1483,Student 1483,2024,2024-7754,ME,7.6,Interview,0,,,Not Verified,0.0
+1484,Student 1484,2024,2024-7626,CE,7.04,Selected,1,NVIDIA,T&P Placed,Not Verified,20.0
+1485,Student 1485,2024,2024-7848,ME,6.49,Rejected,0,,,Pending,0.0
+1486,Student 1486,2024,2024-7890,CSE,8.45,In Process,0,,,Pending,0.0
+1487,Student 1487,2024,2024-7646,ECE,8.47,Selected,1,Microsoft,BP Placed,Not Verified,15.0
+1488,Student 1488,2024,2024-7858,CE,7.85,Rejected,0,,,Not Verified,0.0
+1489,Student 1489,2024,2024-7806,ECE,7.17,Shortlisted,0,,,Not Verified,0.0
+1490,Student 1490,2024,2024-7622,EE,5.83,Selected,1,Infosys,BP Placed,Verified,14.0
+1491,Student 1491,2024,2024-7638,ME,9.43,Interview,0,,,Not Verified,0.0
+1492,Student 1492,2024,2024-7804,ECE,8.61,Selected,1,Amazon,T&P Placed,Not Verified,8.0
+1493,Student 1493,2024,2024-7791,CSE,5.62,Selected,1,TCS,Self Placed,Verified,7.5
+1494,Student 1494,2024,2024-7735,EE,7.87,Rejected,0,,,Pending,0.0
+1495,Student 1495,2024,2024-7821,CE,10.0,Selected,1,Infosys,Off Campus Placed,Verified,11.0
+1496,Student 1496,2024,2024-7747,ECE,7.64,Selected,1,Accenture,T&P Placed,Verified,18.0
+1497,Student 1497,2024,2024-7888,EE,8.63,Rejected,0,,,Verified,0.0
+1498,Student 1498,2024,2024-7817,CSE,7.68,Selected,1,Amazon,Off Campus Placed,Verified,9.5
+1499,Student 1499,2024,2024-7698,ECE,7.8,Rejected,0,,,Not Verified,0.0
+1500,Student 1500,2024,2024-7730,CE,7.98,Interview,0,,,Not Verified,0.0
+1501,Student 1501,2024,2024-7633,EE,7.88,Rejected,0,,,Not Verified,0.0
+1502,Student 1502,2024,2024-7830,EE,7.01,Shortlisted,0,,,Pending,0.0
+1503,Student 1503,2024,2024-7605,ECE,7.99,In Process,0,,,Not Verified,0.0
+1504,Student 1504,2024,2024-7760,ME,7.4,Selected,1,Google,Self Placed,Pending,10.0
+1505,Student 1505,2024,2024-7661,EE,8.04,In Process,0,,,Not Verified,0.0
+1506,Student 1506,2024,2024-7699,CE,8.5,Shortlisted,0,,,Pending,0.0
+1507,Student 1507,2024,2024-7757,CSE,8.65,Selected,1,Microsoft,T&P Placed,Verified,6.0
+1508,Student 1508,2024,2024-7836,ME,6.93,Selected,1,NVIDIA,Self Placed,Verified,24.0
+1509,Student 1509,2024,2024-7629,CSE,9.14,Rejected,0,,,Verified,0.0
+1510,Student 1510,2024,2024-7657,ECE,10.0,Selected,1,Capgemini,BP Placed,Pending,9.5
+1511,Student 1511,2024,2024-7609,CSE,5.24,In Process,0,,,Not Verified,0.0
+1512,Student 1512,2024,2024-7619,ME,7.05,Selected,1,TCS,T&P Placed,Verified,9.0
+1513,Student 1513,2024,2024-7857,CE,7.48,Rejected,0,,,Not Verified,0.0
+1514,Student 1514,2024,2024-7780,ECE,8.48,Selected,1,Databricks,Self Placed,Not Joined,8.0
+1515,Student 1515,2024,2024-7647,ME,7.51,Interview,0,,,Not Verified,0.0
+1516,Student 1516,2024,2024-7646,ECE,6.46,In Process,0,,,Not Verified,0.0
+1517,Student 1517,2024,2024-7890,ECE,7.53,In Process,0,,,Verified,0.0
+1518,Student 1518,2024,2024-7691,ECE,9.62,Rejected,0,,,Not Verified,0.0
+1519,Student 1519,2024,2024-7662,CE,10.0,Rejected,0,,,Not Verified,0.0
+1520,Student 1520,2024,2024-7826,CSE,5.52,In Process,0,,,Not Verified,0.0
+1521,Student 1521,2024,2024-7646,EE,8.62,Selected,1,Siemens,Off Campus Placed,Verified,12.0
+1522,Student 1522,2024,2024-7897,CSE,8.27,Rejected,0,,,Not Verified,0.0
+1523,Student 1523,2024,2024-7721,CE,7.51,Selected,1,TCS,BP Placed,Pending,17.0
+1524,Student 1524,2024,2024-7800,CSE,9.0,Rejected,0,,,Not Verified,0.0
+1525,Student 1525,2024,2024-7628,ME,8.13,Selected,1,Wipro,T&P Placed,Not Verified,18.0
+1526,Student 1526,2024,2024-7616,ME,7.94,Selected,1,Wipro,Self Placed,Pending,6.5
+1527,Student 1527,2024,2024-7699,EE,7.5,Selected,1,Deloitte,Self Placed,Verified,24.2
+1528,Student 1528,2024,2024-7777,ECE,8.24,Rejected,0,,,Not Verified,0.0
+1529,Student 1529,2024,2024-7791,CE,7.83,Interview,0,,,Pending,0.0
+1530,Student 1530,2024,2024-7803,ECE,9.1,Selected,1,Deloitte,T&P Placed,Verified,9.2
+1531,Student 1531,2024,2024-7631,CSE,8.54,Interview,0,,,Pending,0.0
+1532,Student 1532,2024,2024-7859,ECE,8.7,In Process,0,,,Not Verified,0.0
+1533,Student 1533,2024,2024-7851,ECE,7.38,Selected,1,Databricks,Off Campus Placed,Verified,9.5
+1534,Student 1534,2024,2024-7721,CSE,8.54,In Process,0,,,Not Verified,0.0
+1535,Student 1535,2024,2024-7714,CE,8.19,Selected,1,Amazon,Self Placed,Verified,25.0
+1536,Student 1536,2024,2024-7897,EE,7.38,In Process,0,,,Not Verified,0.0
+1537,Student 1537,2024,2024-7691,CE,8.09,Shortlisted,0,,,Pending,0.0
+1538,Student 1538,2024,2024-7718,ECE,9.09,In Process,0,,,Pending,0.0
+1539,Student 1539,2024,2024-7764,CE,6.52,Interview,0,,,Not Verified,0.0
+1540,Student 1540,2024,2024-7783,CE,8.09,Selected,1,Databricks,Self Placed,Verified,12.0
+1541,Student 1541,2024,2024-7641,CSE,5.44,Rejected,0,,,Not Verified,0.0
+1542,Student 1542,2024,2024-7600,CE,9.12,Selected,1,TCS,Off Campus Placed,Verified,12.5
+1543,Student 1543,2024,2024-7794,CSE,8.26,Rejected,0,,,Not Verified,0.0
+1544,Student 1544,2024,2024-7755,EE,7.44,Selected,1,Databricks,T&P Placed,Verified,6.0
+1545,Student 1545,2024,2024-7637,ECE,7.59,Selected,1,Databricks,BP Placed,Pending,8.0
+1546,Student 1546,2024,2024-7857,CSE,7.86,Interview,0,,,Not Verified,0.0
+1547,Student 1547,2024,2024-7793,ME,6.66,Rejected,0,,,Not Verified,0.0
+1548,Student 1548,2024,2024-7701,CSE,8.31,Interview,0,,,Not Verified,0.0
+1549,Student 1549,2024,2024-7815,CE,7.02,Selected,1,Amazon,T&P Placed,Verified,8.0
+1550,Student 1550,2024,2024-7704,ECE,6.34,Shortlisted,0,,,Pending,0.0
+1551,Student 1551,2024,2024-7658,EE,7.2,Selected,1,Deloitte,Off Campus Placed,Not Verified,10.5
+1552,Student 1552,2024,2024-7627,CSE,6.67,Selected,1,Amazon,Self Placed,Pending,18.0
+1553,Student 1553,2024,2024-7644,EE,6.68,In Process,0,,,Pending,0.0
+1554,Student 1554,2024,2024-7655,ECE,8.86,Shortlisted,0,,,Not Verified,0.0
+1555,Student 1555,2024,2024-7880,CSE,10.0,Rejected,0,,,Not Verified,0.0
+1556,Student 1556,2024,2024-7836,ME,8.83,Rejected,0,,,Not Joined,0.0
+1557,Student 1557,2024,2024-7778,ME,7.91,Selected,1,Microsoft,BP Placed,Verified,10.0
+1558,Student 1558,2024,2024-7787,ECE,7.11,Selected,1,Amazon,BP Placed,Verified,28.0
+1559,Student 1559,2024,2024-7871,CSE,6.5,Interview,0,,,Not Verified,0.0
+1560,Student 1560,2024,2024-7723,ME,6.96,Selected,1,Accenture,Self Placed,Pending,24.5
