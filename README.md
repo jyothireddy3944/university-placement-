@@ -92,7 +92,6 @@ university-placement-powerbi-suite/
 │  ├─ app.py
 │  └─ requirements.txt
 ├─ assets/
-│  └─ screenshot_placeholder.png
 └─ README.md
 ```
 
